@@ -331,18 +331,18 @@ body {
 
         <div class="course-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
-		  <h5>About Exoncorp Academy</h5>
-		  <p align="justify">Exoncorp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. exoncorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success. exoncorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p>
+		  <h5>About Exincorp Academy</h5>
+		  <p align="justify">Exincorp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. exoncorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success. exoncorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p>
 		         
 
 		  <h5>exoncorp Academy Profile</h5>
-		  <p align="justify">Exoncorp offers innovative Business Technology solutions, to its client's world-over, to Design, Build, Secure and Manage their enterprise network infrastructures. exoncorp has over multi-skilled infrastructure consultants whose expertise spans across, converged IP networking, Servers, Firwalls, Information Security, Unified Communication, Wireless Networking, Business Continuity Solutions, Performance Engineering, Infrastructure Management and Remote Infrastructure Support Services. exoncorp combines it team of experts with innovative business processes and world-class infrastructure & tools to provide best possible value proposition to its clients and build long-lasting Relationship.</p>
+		  <p align="justify">Exincorp offers innovative Business Technology solutions, to its client's world-over, to Design, Build, Secure and Manage their enterprise network infrastructures. exoncorp has over multi-skilled infrastructure consultants whose expertise spans across, converged IP networking, Servers, Firwalls, Information Security, Unified Communication, Wireless Networking, Business Continuity Solutions, Performance Engineering, Infrastructure Management and Remote Infrastructure Support Services. exoncorp combines it team of experts with innovative business processes and world-class infrastructure & tools to provide best possible value proposition to its clients and build long-lasting Relationship.</p>
 		  
 		  <h5>Technology & Process Consulting Services</h5>
 		  
 		  <p>Our offerings span application services, systems integration, IT infrastructure management, IT training businesses with market leadership in outsourced cash logistics, transaction printing, card personalization and self service solutions businesses.  
 <br><br>
-Exoncorp is currently in the process of leveraging its enormous scale and wide reach to expand its offerings of high value and innovative end-to-end solutions in the IT and outsourced business segments. 
+Exincorp is currently in the process of leveraging its enormous scale and wide reach to expand its offerings of high value and innovative end-to-end solutions in the IT and outsourced business segments. 
 <br><br>
 Our vision is to become the number one end-to-end solutions provider and demonstrate excellence in providing the best-in-class infrastructure management services to our clients in diverse horizontal and vertical segments.</p>
 

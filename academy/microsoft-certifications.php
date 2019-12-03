@@ -15,13 +15,13 @@
 <link rel="shortcut icon" href="misc/favicon.png" type="misc/favicon.png" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>Exoncorp - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+  <title>Exincorp - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" Exoncorp,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" Exincorp,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -38,9 +38,9 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, Exoncorp Academy, Exoncorp, Exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, Exincorp Academy, Exincorp, Exincorp 
 
-Training Centre, Exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,Exoncorp 
+Training Centre, Exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,Exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
@@ -58,8 +58,8 @@ Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
                 <meta property="og:url" content="http://www.exoncorp.com/" >   
                 <meta name="twitter:url" content="http://www.exoncorp.com/" >
                 <meta name="twitter:site" content="@exoncorp"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exoncorp Academy" >
-                <meta name="twitter:description" content="Exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exincorp Academy" >
+                <meta name="twitter:description" content="Exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 <meta name="twitter:image" content="http://www.exoncorp.com/logo.png" >
@@ -73,7 +73,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                     "@type": "Organization",
                     "url": "http://www.exoncorp.com",
                     "logo": "http://www.exoncorp.com/logo.png",
-                    "legalName" : "Exoncorp Pvt  Ltd.,",
+                    "legalName" : "Exincorp Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -90,9 +90,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="Exoncorp (www.Exoncorp.com)" />
+<meta name="Publisher" content="Exincorp (www.Exincorp.com)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="Exoncorp studios"/>
+    <meta name="author" content="Exincorp studios"/>
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_opFmOflf70ENsEkIuFuzxcalK9OIW51LvhbNSVYLdyQ.css" media="all" />

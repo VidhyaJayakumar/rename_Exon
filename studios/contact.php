@@ -108,7 +108,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- Google Maps -->
      <section class="google-map-container">
           <article>
-				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15243168.34269786!2d82.778933!3d21.1334214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xea34a9640a07bc4d!2sExoncorp+Private+Limited!5e0!3m2!1sen!2sin!4v1552736733789" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15243168.34269786!2d82.778933!3d21.1334214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xea34a9640a07bc4d!2sExincorp+Private+Limited!5e0!3m2!1sen!2sin!4v1552736733789" width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
 			 
           </article>
      </section>

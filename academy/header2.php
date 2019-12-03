@@ -178,7 +178,7 @@ if($page == "/index.php")
                     "@type": "Organization",
                     "url": "http://www.exoncorp.com",
                     "logo": "http://www.exoncorp.com/logo.png",
-                    "legalName" : "Exoncorp Pvt  Ltd.,",
+                    "legalName" : "Exincorp Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -186,9 +186,9 @@ if($page == "/index.php")
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/Exoncorp",
+ "https://www.facebook.com/Exincorp",
  "https://twitter.com/exoncorp",
- "https://plus.google.com/+Exoncorp",
+ "https://plus.google.com/+Exincorp",
     "https://www.pinterest.com/exoncorp",
     "http://youtube.com/exoncorp"
  ]
@@ -325,7 +325,7 @@ $message = nl2br($_POST['message']);
 
         $msg  = "<html><body style='font-family:Arial,sans-serif;'>";
         $msg .= "<div style='border:1px solid grey;'> <img src='http://exoncorp.com/images/logo.png'> <div style='float:right;'><a href='http://facebook.com/exoncorp.com'><i class='fa fa-facebook' style='color:red'></i></a> </div>\r\n";
-        $msg .= "<div style='width:100%;height:75px;color:white;background-color:#232222;text-align:center;padding-top:20px;'><h1>Offers Enroll From Exoncorp Academy</h1></div>\r\n"; 
+        $msg .= "<div style='width:100%;height:75px;color:white;background-color:#232222;text-align:center;padding-top:20px;'><h1>Offers Enroll From Exincorp Academy</h1></div>\r\n"; 
                $msg .= "<h2 style='font-weight:bold;border-bottom:1px dotted #ccc;'>Student Enrolled Detail</h2>\r\n";
         $msg .= "<p><strong style='text-transform:uppercase;'> Name :</strong> ".$name."</p>\r\n";
         $msg .= "<p><strong style='text-transform:uppercase;'> Email :</strong> ".$mail."</p>\r\n";
@@ -333,7 +333,7 @@ $message = nl2br($_POST['message']);
  	$msg .= "<p><strong style='text-transform:uppercase;'> Course :</strong> ".$course."</p>\r\n";
       	$msg .= "<p><strong style='text-transform:uppercase;'> Message :</strong> ".$message."</p>\r\n";
         $msg .= "</div></div>";
-        $msg .= "<div style='background-color:#28435F;text-align:center;text-decoration:none;color:red;width:100%; height:50px;padding-top:10px;'><p>&copy; 2016-2017 Exoncorp.com Powered By <a href='http://redbackstudios.in' style='text-decoration:none;color:red;'>Redback Studios</a></p></div>";
+        $msg .= "<div style='background-color:#28435F;text-align:center;text-decoration:none;color:red;width:100%; height:50px;padding-top:10px;'><p>&copy; 2016-2017 Exincorp.com Powered By <a href='http://redbackstudios.in' style='text-decoration:none;color:red;'>Redback Studios</a></p></div>";
         $msg .= "</body></html>";
         $mails = mail ($sendto,$subject,$msg,$headers);
 

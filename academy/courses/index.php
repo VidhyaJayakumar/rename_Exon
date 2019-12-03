@@ -15,13 +15,13 @@
 <link rel="canonical" href="yoga-and-meditation-everyone.php" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>Exoncorp - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+  <title>Exincorp - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" Exoncorp,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" Exincorp,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -38,31 +38,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, Exoncorp Academy, Exoncorp, Exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, Exincorp Academy, Exincorp, Exincorp 
 
-Training Centre, Exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,Exoncorp 
+Training Centre, Exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,Exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.Exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.Exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.Exoncorp.com/academy/"/>
+  <link rel="canonical" href="http://www.Exincorp.com/academy/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="Exoncorp.com"/>
-                <meta property="og:url" content="http://www.Exoncorp.com/" >   
-                <meta name="twitter:url" content="http://www.Exoncorp.com/" >
-                <meta name="twitter:site" content="@Exoncorp"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exoncorp Academy" >
-                <meta name="twitter:description" content="Exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="Exincorp.com"/>
+                <meta property="og:url" content="http://www.Exincorp.com/" >   
+                <meta name="twitter:url" content="http://www.Exincorp.com/" >
+                <meta name="twitter:site" content="@Exincorp"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exincorp Academy" >
+                <meta name="twitter:description" content="Exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.Exoncorp.com/logo.png" >
+                <meta name="twitter:image" content="http://www.Exincorp.com/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -71,9 +71,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.Exoncorp.com",
-                    "logo": "http://www.Exoncorp.com/logo.png",
-                    "legalName" : "Exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.Exincorp.com",
+                    "logo": "http://www.Exincorp.com/logo.png",
+                    "legalName" : "Exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -81,18 +81,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/Exoncorp/",
- "https://twitter.com/Exoncorp",
- "https://plus.google.com/+ExoncorpIndia/",
-    "https://www.pinterest.com/Exoncorp",
-    "http://youtube.com/Exoncorp"
+ "https://www.facebook.com/Exincorp/",
+ "https://twitter.com/Exincorp",
+ "https://plus.google.com/+ExincorpIndia/",
+    "https://www.pinterest.com/Exincorp",
+    "http://youtube.com/Exincorp"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="Exoncorp (www.Exoncorp.in)" />
+<meta name="Publisher" content="Exincorp (www.Exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="Exoncorp studios">
+    <meta name="author" content="Exincorp studios">
   <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_GQjUm7JKS4sMFx4ZeQP4OqeCTaIvK70EbcknHvnhGf4.css" media="all" />
@@ -132,7 +132,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                       <div class="row">
               <div class="col-md-12">
                                 <div class="ptitle">Courses</div>
-                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://Exoncorp.com/academy">Home</a></li> <li><a href="http://Exoncorp.com/academy/courses/" title="">Courses</a></li> </ul> </div>
+                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://Exincorp.com/academy">Home</a></li> <li><a href="http://Exincorp.com/academy/courses/" title="">Courses</a></li> </ul> </div>
               </div>
             </div>
                   </div>
@@ -167,7 +167,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
   <div class="row">
     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <div class="big-title text-center">
-    <h1>STAY HEAD WITH <strong>Exoncorp ACADEMY</strong></h1>
+    <h1>STAY HEAD WITH <strong>Exincorp ACADEMY</strong></h1>
 </div>
 <!--<p class="text-center">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>-->
 
@@ -177,14 +177,14 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
     <div class="col-md-6">
         <ul class="icons-list">
         
-          <li><a href="http://Exoncorp.com/academy/android-trainings.php"><i class="fa fa-book"></i>Android Training</a></li>
-            <li><a href="http://Exoncorp.com/academy/big-data-training-in-vellore.php"><i class="fa fa-book"></i>Big Data Training</a></li>  
-            <li><a href="http://Exoncorp.com/academy/ccna-training-in-vellore.php"><i class="fa fa-book"></i>CCNA Training</a></li>  
-            <li><a href="http://Exoncorp.com/academy/ccnp-training-in-vellore.php"><i class="fa fa-book"></i>CCNP Training</a></li> 
-            <li><a href="http://Exoncorp.com/academy/windows-server-2008-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS SERVER 2008 Training</a></li> 
-            <li><a href="http://Exoncorp.com/academy/windows-server-2012-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS SERVER 2012 Training</a></li> 
-            <li><a href="http://Exoncorp.com/academy/windows-07-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS 07 Training</a></li>
-            <li><a href="http://Exoncorp.com/academy/windows-08-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS 08 Training</a></li>
+          <li><a href="http://Exincorp.com/academy/android-trainings.php"><i class="fa fa-book"></i>Android Training</a></li>
+            <li><a href="http://Exincorp.com/academy/big-data-training-in-vellore.php"><i class="fa fa-book"></i>Big Data Training</a></li>  
+            <li><a href="http://Exincorp.com/academy/ccna-training-in-vellore.php"><i class="fa fa-book"></i>CCNA Training</a></li>  
+            <li><a href="http://Exincorp.com/academy/ccnp-training-in-vellore.php"><i class="fa fa-book"></i>CCNP Training</a></li> 
+            <li><a href="http://Exincorp.com/academy/windows-server-2008-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS SERVER 2008 Training</a></li> 
+            <li><a href="http://Exincorp.com/academy/windows-server-2012-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS SERVER 2012 Training</a></li> 
+            <li><a href="http://Exincorp.com/academy/windows-07-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS 07 Training</a></li>
+            <li><a href="http://Exincorp.com/academy/windows-08-training-in-vellore.php"><i class="fa fa-book"></i>WINDOWS 08 Training</a></li>
            
 
 
@@ -192,36 +192,36 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
 
 
              
-               <li><a href="http://Exoncorp.com/academy/comptia-A+-training-in-vellore.php"><i class="fa fa-book"></i>Comptia A+ Training</a></li>
-                 <li><a href="http://Exoncorp.com/academy/comptia-N+-training-in-vellore.php"><i class="fa fa-book"></i>Comptia N+ Training</a></li>
-                   <li><a href="http://Exoncorp.com/academy/comptia-secuirty+-training-in-vellore.php"><i class="fa fa-book"></i>Comptia Security+ Training</a></li>
-                       <li><a href="http://Exoncorp.com/academy/cyber-secuirty-trainng-in-vellore.php"><i class="fa fa-book"></i>Cyber Security Training</a></li>
-            <li><a href="http://Exoncorp.com/academy/data-analytics-training-in-vellore.php"><i class="fa fa-book"></i>Data Analytics Training</a></li>  
-            <li><a href="http://Exoncorp.com/academy/digital-marketing-training-in-vellore.php"><i class="fa fa-book"></i>Digital Marketing Training</a></li>  
-            <li><a href="http://Exoncorp.com/academy/dot-net-training-in-vellore.php"><i class="fa fa-book"></i>Dot Net Training</a></li> 
-             <li><a href="http://Exoncorp.com/academy/ethical-hacking-training-in-vellore.php"><i class="fa fa-book"></i>Ethical Hacking Training</a></li>
-               <li><a href="http://Exoncorp.com/academy/iot-training-in-vellore.php"><i class="fa fa-book"></i>IOT Training</a></li>
+               <li><a href="http://Exincorp.com/academy/comptia-A+-training-in-vellore.php"><i class="fa fa-book"></i>Comptia A+ Training</a></li>
+                 <li><a href="http://Exincorp.com/academy/comptia-N+-training-in-vellore.php"><i class="fa fa-book"></i>Comptia N+ Training</a></li>
+                   <li><a href="http://Exincorp.com/academy/comptia-secuirty+-training-in-vellore.php"><i class="fa fa-book"></i>Comptia Security+ Training</a></li>
+                       <li><a href="http://Exincorp.com/academy/cyber-secuirty-trainng-in-vellore.php"><i class="fa fa-book"></i>Cyber Security Training</a></li>
+            <li><a href="http://Exincorp.com/academy/data-analytics-training-in-vellore.php"><i class="fa fa-book"></i>Data Analytics Training</a></li>  
+            <li><a href="http://Exincorp.com/academy/digital-marketing-training-in-vellore.php"><i class="fa fa-book"></i>Digital Marketing Training</a></li>  
+            <li><a href="http://Exincorp.com/academy/dot-net-training-in-vellore.php"><i class="fa fa-book"></i>Dot Net Training</a></li> 
+             <li><a href="http://Exincorp.com/academy/ethical-hacking-training-in-vellore.php"><i class="fa fa-book"></i>Ethical Hacking Training</a></li>
+               <li><a href="http://Exincorp.com/academy/iot-training-in-vellore.php"><i class="fa fa-book"></i>IOT Training</a></li>
                     
         </ul></div>
 
     <div class="col-md-6">
         <ul class="icons-list">
         
-                 <li><a href="http://Exoncorp.com/academy/ios-training-in-vellore.php"><i class="fa fa-book"></i>IOS Training</a></li>
-                  <li><a href="http://Exoncorp.com/academy/linux-training-in-vellore.php"><i class="fa fa-book"></i>Linux Training</a></li>
-                     <li><a href="http://Exoncorp.com/academy/mcitp-training-in-vellore.php"><i class="fa fa-book"></i>MCITP Training</a></li>
-                       <li><a href="http://Exoncorp.com/academy/mcse-training-in-vellore.php"><i class="fa fa-book"></i>MCSE Training</a></li>
+                 <li><a href="http://Exincorp.com/academy/ios-training-in-vellore.php"><i class="fa fa-book"></i>IOS Training</a></li>
+                  <li><a href="http://Exincorp.com/academy/linux-training-in-vellore.php"><i class="fa fa-book"></i>Linux Training</a></li>
+                     <li><a href="http://Exincorp.com/academy/mcitp-training-in-vellore.php"><i class="fa fa-book"></i>MCITP Training</a></li>
+                       <li><a href="http://Exincorp.com/academy/mcse-training-in-vellore.php"><i class="fa fa-book"></i>MCSE Training</a></li>
                       
-            <li><a href="http://Exoncorp.com/academy/mobile-app-training-in-vellore.php"><i class="fa fa-book"></i>Mobile App Training</a></li>  
-            <li><a href="http://Exoncorp.com/academy/networking-training-in-vellore.php"><i class="fa fa-book"></i>Networking Training</a></li>  
-            <li><a href="http://Exoncorp.com/academy/redhat-training-in-vellore.php"><i class="fa fa-book"></i>Redhat Training</a></li> 
-             <li><a href="http://Exoncorp.com/academy/rhce-training-in-vellore.php"><i class="fa fa-book"></i>RHCE Training</a></li>
-               <li><a href="http://Exoncorp.com/academy/rhcsa-training-in-vellore.php"><i class="fa fa-book"></i>RHCSA Training</a></li>
-                 <li><a href="http://Exoncorp.com/academy/security-training-in-vellore.php"><i class="fa fa-book"></i>Security Training</a></li>
-                 <li><a href="http://Exoncorp.com/academy/seo-training-in-vellore.php"><i class="fa fa-book"></i>Seo Training</a></li>
-                   <li><a href="http://Exoncorp.com/academy/server-training-in-vellore.php"><i class="fa fa-book"></i>Server Training</a></li>
-                     <li><a href="http://Exoncorp.com/academy/vmware-training-in-vellore.php"><i class="fa fa-book"></i>Vmware Training</a></li>
-                       <li><a href="http://Exoncorp.com/academy/web-development-training-in-vellore.php"><i class="fa fa-book"></i>Web Development Training</a></li>
+            <li><a href="http://Exincorp.com/academy/mobile-app-training-in-vellore.php"><i class="fa fa-book"></i>Mobile App Training</a></li>  
+            <li><a href="http://Exincorp.com/academy/networking-training-in-vellore.php"><i class="fa fa-book"></i>Networking Training</a></li>  
+            <li><a href="http://Exincorp.com/academy/redhat-training-in-vellore.php"><i class="fa fa-book"></i>Redhat Training</a></li> 
+             <li><a href="http://Exincorp.com/academy/rhce-training-in-vellore.php"><i class="fa fa-book"></i>RHCE Training</a></li>
+               <li><a href="http://Exincorp.com/academy/rhcsa-training-in-vellore.php"><i class="fa fa-book"></i>RHCSA Training</a></li>
+                 <li><a href="http://Exincorp.com/academy/security-training-in-vellore.php"><i class="fa fa-book"></i>Security Training</a></li>
+                 <li><a href="http://Exincorp.com/academy/seo-training-in-vellore.php"><i class="fa fa-book"></i>Seo Training</a></li>
+                   <li><a href="http://Exincorp.com/academy/server-training-in-vellore.php"><i class="fa fa-book"></i>Server Training</a></li>
+                     <li><a href="http://Exincorp.com/academy/vmware-training-in-vellore.php"><i class="fa fa-book"></i>Vmware Training</a></li>
+                       <li><a href="http://Exincorp.com/academy/web-development-training-in-vellore.php"><i class="fa fa-book"></i>Web Development Training</a></li>
        
                    
         </ul></div>
@@ -241,7 +241,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
  </div></div></div>
  <div class="hr5" style="margin-top: 30px; margin-bottom: 30px;"></div>
  <div class="big-title text-center">
-    <h1><strong>Exoncorp ACADEMY </strong>ADVANTAGES</h1>
+    <h1><strong>Exincorp ACADEMY </strong>ADVANTAGES</h1>
 </div>
 
       <div id="gavias-accordions" class="panel-group">

@@ -13,13 +13,13 @@
 <link rel="shortcut icon" href="misc/favicon.png" type="misc/favicon.png" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-   <title>Exoncorp - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+   <title>Exincorp - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" Exoncorp,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" Exincorp,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -36,31 +36,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, Exoncorp, Exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, Exincorp, Exincorp 
 
-Training Centre, Exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,Exoncorp 
+Training Centre, Exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,Exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.Exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.Exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.Exoncorp.com/academy/"/>
+  <link rel="canonical" href="http://www.Exincorp.com/academy/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="Exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.Exoncorp.com/academy/" >   
-                <meta name="twitter:url" content="http://www.Exoncorp.com/academy/" >
-                <meta name="twitter:site" content="@Exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exoncorp Academy" >
-                <meta name="twitter:description" content="Exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="Exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.Exincorp.com/academy/" >   
+                <meta name="twitter:url" content="http://www.Exincorp.com/academy/" >
+                <meta name="twitter:site" content="@Exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exincorp Academy" >
+                <meta name="twitter:description" content="Exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.Exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.Exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -69,9 +69,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.Exoncorp.com/academy/",
-                    "logo": "http://www.Exoncorp.com/academy/logo.png",
-                    "legalName" : "Exoncorp Pvt  Ltd.,",
+                    "url": "http://www.Exincorp.com/academy/",
+                    "logo": "http://www.Exincorp.com/academy/logo.png",
+                    "legalName" : "Exincorp Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -79,18 +79,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/ExoncorpAcademy/",
- "https://twitter.com/Exoncorpacademy",
- "https://plus.google.com/+ExoncorpacademyIndia/",
-    "https://www.pinterest.com/Exoncorpacademy",
-    "http://youtube.com/Exoncorpacademy"
+ "https://www.facebook.com/ExincorpAcademy/",
+ "https://twitter.com/Exincorpacademy",
+ "https://plus.google.com/+ExincorpacademyIndia/",
+    "https://www.pinterest.com/Exincorpacademy",
+    "http://youtube.com/Exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="Exoncorp (www.Exoncorp.in)" />
+<meta name="Publisher" content="Exincorp (www.Exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="Exoncorp studios"/>
+    <meta name="author" content="Exincorp studios"/>
   <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_opFmOflf70ENsEkIuFuzxcalK9OIW51LvhbNSVYLdyQ.css" media="all" />
@@ -128,7 +128,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                       <div class="row">
               <div class="col-md-12">
                                 <div class="ptitle">comptia-certifications</div>
-                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="index.php">Home</a></li> <li><a href="http://Exoncorpacademy.com/comptia-certifications" title="" class="active">comptia-certifications</a></li> </ul> </div>
+                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="index.php">Home</a></li> <li><a href="http://Exincorpacademy.com/comptia-certifications" title="" class="active">comptia-certifications</a></li> </ul> </div>
               </div>
             </div>
                   </div>
@@ -170,13 +170,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://Exoncorpacademy.com/comptia-a-plus.php">A+</a></span>         </div>  
+            <span class="field-content"><a href="http://Exincorpacademy.com/comptia-a-plus.php">A+</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Selvarathinam</div>         </div>
          <div class="body">        
             <div class="field-content"><p>A+ is the starting point for a career in IT. The exams certify foundational IT skills across a variety of devices and operating systems.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://Exoncorpacademy.com/comptia-a-plus.php">View more</a>
+            <a href="http://Exincorpacademy.com/comptia-a-plus.php">View more</a>
          </div>
       </div>
    </div>
@@ -191,13 +191,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://Exoncorpacademy.com/comptia-n-plus.php">N+</a></span>         </div>  
+            <span class="field-content"><a href="http://Exincorpacademy.com/comptia-n-plus.php">N+</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Siva Priya</div>         </div>
          <div class="body">        
             <div class="field-content"><p> Network+ certifies the essential skills needed to confidently design, configure, manage and troubleshoot any wired and wireless devices.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://Exoncorpacademy.com/comptia-n-plus.php ">View more</a>
+            <a href="http://Exincorpacademy.com/comptia-n-plus.php ">View more</a>
          </div>
       </div>
    </div>
@@ -212,14 +212,14 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://Exoncorpacademy.com/comptia-server-plus.php">Server+</a></span>         </div>  
+            <span class="field-content"><a href="http://Exincorpacademy.com/comptia-server-plus.php">Server+</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Prabhu</div>         </div>
          <div class="body">        
             <div class="field-content"><p>CompTIA Server+ ensures pros have the skills to work in data centers or cloud environments.
 </p></div>         </div>
          <div class="readmore">        
-            <a href="http://Exoncorpacademy.com/comptia-server-plus.php">View more</a>
+            <a href="http://Exincorpacademy.com/comptia-server-plus.php">View more</a>
          </div>
       </div>
    </div>
@@ -233,13 +233,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://Exoncorpacademy.com/comptia-security-plus.php">Security+</a></span>         </div>  
+            <span class="field-content"><a href="http://Exincorpacademy.com/comptia-security-plus.php">Security+</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Sivapriya</div>         </div>
          <div class="body">        
             <div class="field-content"><p>S+ is a global certification that validates the baseline skills you need to perform core security functions.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://Exoncorpacademy.com/comptia-security-plus.php">View more</a>
+            <a href="http://Exincorpacademy.com/comptia-security-plus.php">View more</a>
          </div>
       </div>
    </div>
@@ -255,13 +255,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://Exoncorpacademy.com/comptia-cloud-plus.php">cloud+</a></span>         </div>  
+            <span class="field-content"><a href="http://Exincorpacademy.com/comptia-cloud-plus.php">cloud+</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Irfan</div>         </div>
          <div class="body">        
             <div class="field-content"><p>CompTIA Cloud+ shows you have the expertise needed for data center jobs.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://Exoncorpacademy.com/comptia-cloud-plus.php">View more</a>
+            <a href="http://Exincorpacademy.com/comptia-cloud-plus.php">View more</a>
          </div>
       </div>
    </div>
@@ -275,13 +275,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://Exoncorpacademy.com/comptia-linux.php">linux</a></span>         </div>  
+            <span class="field-content"><a href="http://Exincorpacademy.com/comptia-linux.php">linux</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Prabhu</div>         </div>
          <div class="body">        
             <div class="field-content"><p>Linux+ is an internationally recognized credential validating technical competencies required for Linux administrators.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://Exoncorpacademy.com/comptia-linux.php">View more</a>
+            <a href="http://Exincorpacademy.com/comptia-linux.php">View more</a>
          </div>
       </div>
    </div>

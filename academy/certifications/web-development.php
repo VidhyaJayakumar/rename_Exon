@@ -27,7 +27,7 @@ else
 <link rel="shortcut icon" href="misc/favicon.png" type="misc/favicon.png" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>Exoncorp IT Academy - computer IT Training Institutes server,networking,security,hacking in <?php echo $place; ?>, IT Training Company in <?php echo $place; ?>, computer training institutes 
+  <title>Exincorp IT Academy - computer IT Training Institutes server,networking,security,hacking in <?php echo $place; ?>, IT Training Company in <?php echo $place; ?>, computer training institutes 
 
 in <?php echo $place; ?>,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  <?php echo $place; ?>, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 

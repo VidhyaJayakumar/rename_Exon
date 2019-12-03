@@ -232,7 +232,7 @@ li {
  <div class="text-left">
 <div style="color: #fff;"><p>Arakkonam, Ambur, Arani, Arcot, Bagayam, Banagalore, Chennai, chittoor, Gudiyatham, hosur, Katpadi, Kanchipuram, Thiruvanamalai, Ranipet, sathuvachari, Visharam, Vellore, Vaniyambadi, Tirupathur, Walajapet. </p> <br>
 <p>
-Exoncorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre away from your location. If you need the best training in Vellore, driving a couple of extra kilometres is worth it!</p></div>
+Exincorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre away from your location. If you need the best training in Vellore, driving a couple of extra kilometres is worth it!</p></div>
  
 </div>
    
@@ -291,7 +291,7 @@ Exoncorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre
     <div class="block-content">
       <div>
         <div class="text-left col-md-8">
-<div> Copyright © 2009 -<?php echo date("Y");?> &nbsp;Exoncorp. All Rights Reserved. The certification names are the trademarks of their respective owners. SeoDigital by <a href="https://exoncorp.com" target="_blank">Exoncorp</a>  </div>
+<div> Copyright © 2009 -<?php echo date("Y");?> &nbsp;Exincorp. All Rights Reserved. The certification names are the trademarks of their respective owners. SeoDigital by <a href="https://exoncorp.com" target="_blank">Exincorp</a>  </div>
  
 </div>
 <style type="text/css">
@@ -300,9 +300,9 @@ Exoncorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre
 </style>
 
 <div class="social col-md-4">
-<ul class="connect"><li class="social-facebook"><a href="https://www.facebook.com/Exoncorp/"><i class="fa fa-facebook"> </i></a></li>
+<ul class="connect"><li class="social-facebook"><a href="https://www.facebook.com/Exincorp/"><i class="fa fa-facebook"> </i></a></li>
 <li class="social-twitter"><a href="https://twitter.com/exoncorp"><i class="fa fa-twitter"> </i></a></li>
-<li class="social-google"><a href="https://plus.google.com/+Exoncorp"><i class="fa fa-google-plus"> </i></a></li>
+<li class="social-google"><a href="https://plus.google.com/+Exincorp"><i class="fa fa-google-plus"> </i></a></li>
 <li class="social-youtube"><a href="https://www.linkedin.com/company/exoncorp"><i class="fa fa-linkedin"> </i></a></li>
 </ul></div>
       </div>

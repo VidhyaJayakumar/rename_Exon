@@ -65,7 +65,7 @@
         <h1>TERMS AND CONDITIONS</h1>
       </div>
       <br>
-      <p style="text-align:justify">This terms "We" / "Us" / "Our"/”Company” individually and collectively refer to Exoncorp and the terms "Visitor” ”User” refer to the users. </p>
+      <p style="text-align:justify">This terms "We" / "Us" / "Our"/”Company” individually and collectively refer to Exincorp and the terms "Visitor” ”User” refer to the users. </p>
 <p style="text-align:justify">This page states the Terms and Conditions under which you (Visitor) may visit this website (“Website”). Please read this page carefully. If you do not accept the Terms and Conditions stated here, we would request you to exit this site. The business, any of its business divisions and / or its subsidiaries, associate companies or subsidiaries to subsidiaries or such other investment companies (in India or abroad) reserve their respective rights to revise these Terms and Conditions at any time by updating this posting. You should visit this page periodically to re-appraise yourself of the Terms and Conditions, because they are binding on all users of this Website.</p><br>
 <h4>USE OF CONTENT</h4>
 <br>

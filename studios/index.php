@@ -1112,7 +1112,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <h3 class="color-white">Google Trust Score</h3>
                     <p>Sometimes the best discoveries are the result of simple observations</p>
                </div>
-          <center><a href="https://www.google.com/maps/place/Exoncorp+Private+Limited/@21.1334214,82.778933,5z/data=!4m5!3m4!1s0x0:0xea34a9640a07bc4d!8m2!3d21.1334214!4d82.778933" target="_blank"><img src="images/google-rating.png" alt="Website Developers in Vellore" /></a></center> 
+          <center><a href="https://www.google.com/maps/place/Exincorp+Private+Limited/@21.1334214,82.778933,5z/data=!4m5!3m4!1s0x0:0xea34a9640a07bc4d!8m2!3d21.1334214!4d82.778933" target="_blank"><img src="images/google-rating.png" alt="Website Developers in Vellore" /></a></center> 
         <h3 class="color-white">5 rating of 7 reviews.</h3>
                  <!--   <p>This is what our clients say about us.</p>-->
           </div>

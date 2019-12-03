@@ -33,9 +33,9 @@
                 <meta property="og:url" content="http://www.exoncorp.com/" >   
                 <meta name="twitter:url" content="http://www.exoncorp.com/" >
                 <meta name="twitter:site" content="@exoncorp"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exoncorp Academy" >
-                <meta name="twitter:description" content="Exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.Exoncorp.com/logo.png" >
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exincorp Academy" >
+                <meta name="twitter:description" content="Exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
+                <meta name="twitter:image" content="http://www.Exincorp.com/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -46,7 +46,7 @@
                     "@type": "Organization",
                     "url": "http://www.exoncorp.com",
                     "logo": "http://www.exoncorp.com/logo.png",
-                    "legalName" : "Exoncorp Pvt  Ltd.,",
+                    "legalName" : "Exincorp Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -54,16 +54,16 @@
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/Exoncorp/",
+ "https://www.facebook.com/Exincorp/",
  "https://twitter.com/exoncorp",
- "https://plus.google.com/+Exoncorp/",
+ "https://plus.google.com/+Exincorp/",
     "https://www.pinterest.com/exoncorp",
     "http://youtube.com/exoncorp"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="Exoncorp (www.exoncorp.com)" />
+<meta name="Publisher" content="Exincorp (www.exoncorp.com)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
 
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
