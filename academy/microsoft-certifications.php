@@ -47,22 +47,22 @@ IT Academy , it training institutes in vellore ,it certifications, Best Computer
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorp.com/"/>
+  <link rel="canonical" href="http://www.exincorp.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorp.com"/>
-                <meta property="og:url" content="http://www.exoncorp.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorp.com/" >
-                <meta name="twitter:site" content="@exoncorp"/>
+                                <meta property="og:site_name" content="exincorp.com"/>
+                <meta property="og:url" content="http://www.exincorp.com/" >   
+                <meta name="twitter:url" content="http://www.exincorp.com/" >
+                <meta name="twitter:site" content="@exincorp"/>
                 <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exincorp Academy" >
                 <meta name="twitter:description" content="Exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -71,8 +71,8 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorp.com",
-                    "logo": "http://www.exoncorp.com/logo.png",
+                    "url": "http://www.exincorp.com",
+                    "logo": "http://www.exincorp.com/logo.png",
                     "legalName" : "Exincorp Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
@@ -81,11 +81,11 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorp/",
- "https://twitter.com/exoncorp",
- "https://plus.google.com/+exoncorpIndia/",
-    "https://www.pinterest.com/exoncorp",
-    "http://youtube.com/exoncorp"
+ "https://www.facebook.com/exincorp/",
+ "https://twitter.com/exincorp",
+ "https://plus.google.com/+exincorpIndia/",
+    "https://www.pinterest.com/exincorp",
+    "http://youtube.com/exincorp"
  ]
                 }
             </script>    
@@ -235,13 +235,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/microsoft-database.php">Database</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/microsoft-database.php">Database</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content"><a href="#">Naresh Sharma</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p>DBMS allows the definition,creation,querying,update.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/microsoft-database.php">View more</a>
+            <a href="http://exincorp.com/microsoft-database.php">View more</a>
          </div>
       </div>
    </div>
@@ -256,13 +256,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/microsoft-developer.php">Developer</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/microsoft-developer.php">Developer</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content"><a href="#">Roshan Kumar</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p>software developer is a person concerned with facts of the software development.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/microsoft-developer.php">View more</a>
+            <a href="http://exincorp.com/microsoft-developer.php">View more</a>
          </div>
       </div>
    </div>

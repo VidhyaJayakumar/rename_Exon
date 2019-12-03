@@ -82,18 +82,18 @@ li {
 <p>Eleifend option congue nihil imperdiet doming id quod mazim placerat. Facer possim assum. Ut wisi enim ad minim veniam, quis nostrud exerci tation. </p>
 </div>-->
      <div class="block-title">
-                <a href="https://exoncorp.com/academy/index.php">   <img src="https://exoncorp.com/academy/logof.png" alt="image"></a>
+                <a href="https://exincorp.com/academy/index.php">   <img src="https://exincorp.com/academy/logof.png" alt="image"></a>
                 </div> 
    
     <div class="block-content">
       <div>
-          <a href="https://exoncorp.com/academy/certification.php">Certificate Verify</a><br>
-          <a href="https://exoncorp.com/academy/certification.php">Online Exam</a><br>
-          <a href="https://exoncorp.com/academy/results.php">Results</a><br>
-          <a href="https://exoncorp.com/academy/calendar.php" target="_blank">Training Calender</a><br>
-          <a href="https://exoncorp.com/academy/academic-projects.php">Academic Projects</a><br>
-          <a href="https://exoncorp.com/academy/testimonials.php">Testimonials</a><br>
-          <a href="https://exoncorp.com/academy/payment.php">Online Payment</a><br>
+          <a href="https://exincorp.com/academy/certification.php">Certificate Verify</a><br>
+          <a href="https://exincorp.com/academy/certification.php">Online Exam</a><br>
+          <a href="https://exincorp.com/academy/results.php">Results</a><br>
+          <a href="https://exincorp.com/academy/calendar.php" target="_blank">Training Calender</a><br>
+          <a href="https://exincorp.com/academy/academic-projects.php">Academic Projects</a><br>
+          <a href="https://exincorp.com/academy/testimonials.php">Testimonials</a><br>
+          <a href="https://exincorp.com/academy/payment.php">Online Payment</a><br>
          
           
       </div>
@@ -133,12 +133,12 @@ li {
       <div>
         
   <a href="onsite.php">On-Site Training</a><br>
-          <a href="https://exoncorp.com/academy/customized.php">Customized Training</a><br>
-          <a href="https://exoncorp.com/academy/careers.php">Careers Programs</a><br>
-          <a href="https://exoncorp.com/academy/boot.php">Boot Camp</a><br>
-          <a href="https://exoncorp.com/academy/upcoming.php">Upcoming Webinars</a><br>
-          <a href="https://exoncorp.com/academy/workshop.php">Workshop</a><br>
-          <a href="https://exoncorp.com/academy/sitemap.php">SiteMap</a><br>
+          <a href="https://exincorp.com/academy/customized.php">Customized Training</a><br>
+          <a href="https://exincorp.com/academy/careers.php">Careers Programs</a><br>
+          <a href="https://exincorp.com/academy/boot.php">Boot Camp</a><br>
+          <a href="https://exincorp.com/academy/upcoming.php">Upcoming Webinars</a><br>
+          <a href="https://exincorp.com/academy/workshop.php">Workshop</a><br>
+          <a href="https://exincorp.com/academy/sitemap.php">SiteMap</a><br>
 <!-- <a href="http://twitter.com/envato" class="twitter-link" title="Follow me on twitter →">Follow me on twitter →</a></p> -->
         </div>
     </div>  
@@ -170,11 +170,11 @@ li {
       <div>
         <div class="contact-info">
         <a href="authorized-training-partner.php">An Training Partner</a><br>
-          <a href="https://exoncorp.com/academy/become-our-trainer.php">An Instructor</a><br>
-          <a href="https://exoncorp.com/academy/affiliate-program.php">An Affiliate</a><br>
-          <a href="https://exoncorp.com/academy/guest-blogging.php">Blog as Guest</a><br>
-          <a href="https://exoncorp.com/academy/https://redbackacademy.com/application.php">Enquiry Application</a><br>
-          <a href="https://exoncorp.com/academy/loan-application.php">Loan Application</a><br>
+          <a href="https://exincorp.com/academy/become-our-trainer.php">An Instructor</a><br>
+          <a href="https://exincorp.com/academy/affiliate-program.php">An Affiliate</a><br>
+          <a href="https://exincorp.com/academy/guest-blogging.php">Blog as Guest</a><br>
+          <a href="https://exincorp.com/academy/https://redbackacademy.com/application.php">Enquiry Application</a><br>
+          <a href="https://exincorp.com/academy/loan-application.php">Loan Application</a><br>
          
     </div>
       </div>
@@ -247,19 +247,19 @@ Exincorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre
             <div class="copyright-inner">
                <div class="footer-custmlink">
                   <ul>  
-                      <li><a href="https://exoncorp.com/academy/certifications/microsoft-training.php">Microsoft Training in Vellore</a></li>
+                      <li><a href="https://exincorp.com/academy/certifications/microsoft-training.php">Microsoft Training in Vellore</a></li>
                       <li>
                         </li>
-                        <li><a href="https://exoncorp.com/academy/certifications/cisco-training.php">Cisco Training in Vellore</a></li>
+                        <li><a href="https://exincorp.com/academy/certifications/cisco-training.php">Cisco Training in Vellore</a></li>
                         <li>
                         </li>
-                        <li><a href="https://exoncorp.com/academy/certifications/android-training.php">Android Training in Vellore</a></li>
+                        <li><a href="https://exincorp.com/academy/certifications/android-training.php">Android Training in Vellore</a></li>
                         <li>
                         </li>
-                        <li><a href="https://exoncorp.com/academy/certifications/redhat-training.php">Redhat Training in Vellore</a></li>
+                        <li><a href="https://exincorp.com/academy/certifications/redhat-training.php">Redhat Training in Vellore</a></li>
                         <li>
                         </li>
-                        <li><a href="https://exoncorp.com/academy/certifications/ethical-hacking-training.php">Ethical hacking Training in Vellore</a></li>
+                        <li><a href="https://exincorp.com/academy/certifications/ethical-hacking-training.php">Ethical hacking Training in Vellore</a></li>
                         <li>
                          </li>
                          <li><a href="#">Digital Marketing Training in Vellore</a></li>
@@ -267,7 +267,7 @@ Exincorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre
                         </li>
                         <li><a href="#">PHP Training in Vellore</a></li><li>
                         </li>
-                        <li><a href="https://exoncorp.com/academy/python-certification.php">PYTHON Training in Vellore</a></li><li>
+                        <li><a href="https://exincorp.com/academy/python-certification.php">PYTHON Training in Vellore</a></li><li>
                     </li>
                         <li><a href="#">SEO Training in Vellore</a></li><li>
                     </li></ul>
@@ -291,7 +291,7 @@ Exincorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre
     <div class="block-content">
       <div>
         <div class="text-left col-md-8">
-<div> Copyright © 2009 -<?php echo date("Y");?> &nbsp;Exincorp. All Rights Reserved. The certification names are the trademarks of their respective owners. SeoDigital by <a href="https://exoncorp.com" target="_blank">Exincorp</a>  </div>
+<div> Copyright © 2009 -<?php echo date("Y");?> &nbsp;Exincorp. All Rights Reserved. The certification names are the trademarks of their respective owners. SeoDigital by <a href="https://exincorp.com" target="_blank">Exincorp</a>  </div>
  
 </div>
 <style type="text/css">
@@ -301,9 +301,9 @@ Exincorp Vellore , Chennai ,Gudiyatham & Banagalore branch is just few kilometre
 
 <div class="social col-md-4">
 <ul class="connect"><li class="social-facebook"><a href="https://www.facebook.com/Exincorp/"><i class="fa fa-facebook"> </i></a></li>
-<li class="social-twitter"><a href="https://twitter.com/exoncorp"><i class="fa fa-twitter"> </i></a></li>
+<li class="social-twitter"><a href="https://twitter.com/exincorp"><i class="fa fa-twitter"> </i></a></li>
 <li class="social-google"><a href="https://plus.google.com/+Exincorp"><i class="fa fa-google-plus"> </i></a></li>
-<li class="social-youtube"><a href="https://www.linkedin.com/company/exoncorp"><i class="fa fa-linkedin"> </i></a></li>
+<li class="social-youtube"><a href="https://www.linkedin.com/company/exincorp"><i class="fa fa-linkedin"> </i></a></li>
 </ul></div>
       </div>
     </div>  

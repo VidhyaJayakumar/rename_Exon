@@ -43,22 +43,22 @@ IT Academy , it training institutes in vellore ,it certifications, Best Computer
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorp.com/academy/"/>
+  <link rel="canonical" href="http://www.exincorp.com/academy/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorp.com/academy"/>
-                <meta property="og:url" content="http://www.exoncorp.com/academy/" >   
-                <meta name="twitter:url" content="http://www.exoncorp.com/academy/" >
+                                <meta property="og:site_name" content="exincorp.com/academy"/>
+                <meta property="og:url" content="http://www.exincorp.com/academy/" >   
+                <meta name="twitter:url" content="http://www.exincorp.com/academy/" >
                 <meta name="twitter:site" content="@Exincorpacademy"/>
                 <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exincorp" >
                 <meta name="twitter:description" content="Exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -67,8 +67,8 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorp.com/academy",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
+                    "url": "http://www.exincorp.com/academy",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
                     "legalName" : "Exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
@@ -126,7 +126,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                       <div class="row">
               <div class="col-md-12">
                                 <div class="ptitle">cisco-certifications</div>
-                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="index.php">Home</a></li> <li><a href="http://exoncorp.com/academy/cisco-certifications" title="" class="active">cisco-certifications</a></li> </ul> </div>
+                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="index.php">Home</a></li> <li><a href="http://exincorp.com/academy/cisco-certifications" title="" class="active">cisco-certifications</a></li> </ul> </div>
               </div>
             </div>
                   </div>
@@ -174,7 +174,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
          <div class="body">        
             <div class="field-content"><p>Associate level : CCNA Cloud , Professional level :CCNP Cloud</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/ccent.php">View more</a>
+            <a href="http://exincorp.com/academy/ccent.php">View more</a>
          </div>
       </div>
    </div>
@@ -189,13 +189,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/ccna.php">COLLABORATION</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/ccna.php">COLLABORATION</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Priya</div>         </div>
          <div class="body">        
             <div class="field-content"><p>Associate level : CCNA Collaboration , Professional Level : CCNP Collaboration , Expert Level : CCIE Collaboration.  </p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/ccna.php">View more</a>
+            <a href="http://exincorp.com/academy/ccna.php">View more</a>
          </div>
       </div>
    </div>
@@ -210,13 +210,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/ccnp.php">DATA CENTER</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/ccnp.php">DATA CENTER</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Divya</div>         </div>
          <div class="body">        
             <div class="field-content"><p>Associate level : CCNA Data Center , Professional Level : CCNP Data Center, Expert Level : CCIE Data Center.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/ccnp.php">View more</a>
+            <a href="http://exincorp.com/academy/ccnp.php">View more</a>
          </div>
       </div>
    </div>
@@ -231,13 +231,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/cissp.php">DESIGN</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/cissp.php">DESIGN</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Prabhu</div>         </div>
          <div class="body">        
             <div class="field-content"><p>Entry Level : CCENT , Associate level : CCDA , Professional Level : CCDP , Expert Level : CCAr.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/cissp.php">View more</a>
+            <a href="http://exincorp.com/academy/cissp.php">View more</a>
          </div>
       </div>
    </div>
@@ -251,13 +251,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/cism.php">Routing and Switching</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/cism.php">Routing and Switching</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Saran</div>         </div>
          <div class="body">        
             <div class="field-content"><p>Entry Level : CCENT , Associate level :CCNA Routing and Switching , Professional Level :CCNP Routing and Switching , Expert Level : CCIE Routing and Switching.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/cism.php">View more</a>
+            <a href="http://exincorp.com/academy/cism.php">View more</a>
          </div>
       </div>
    </div>
@@ -272,13 +272,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/cissp-archive.php">SECURITY</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/cissp-archive.php">SECURITY</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Vidya</div>         </div>
          <div class="body">        
             <div class="field-content"><p>Entry Level : CCENT , Associate level :CCNA Security	 , Professional Level :Security	 , Expert Level : CCIE Security	.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/cissp-archive.php">View more</a>
+            <a href="http://exincorp.com/academy/cissp-archive.php">View more</a>
          </div>
       </div>
    </div>
@@ -296,13 +296,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/ciso-training.php">Service Provider</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/ciso-training.php">Service Provider</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content">Prabhu</div>         </div>
          <div class="body">        
             <div class="field-content"><p>Associate level :CCNA Service Provider, Professional Level :Service Provider, Expert Level : CCIE Service Provider.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/ciso-training.php">View more</a>
+            <a href="http://exincorp.com/academy/ciso-training.php">View more</a>
          </div>
       </div>
    </div>

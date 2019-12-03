@@ -17,13 +17,13 @@
  <link rel="stylesheet" type="text/css" href="font-style.css">
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-   <title>exoncorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+   <title>exincorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -40,31 +40,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -73,9 +73,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -83,16 +83,16 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
 
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
@@ -128,7 +128,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
 											<div class="row">
 							<div class="col-md-12">
 																<div class="ptitle">Career Programs</div>
-																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exoncorpacademy.com/">Home</a></li><li><a href="http://exoncorpacademy.com/services.php">services</a></li><li><a href="http://exoncorpacademy.com/careers.php">career programs</a></li> </ul> </div>
+																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exincorpacademy.com/">Home</a></li><li><a href="http://exincorpacademy.com/services.php">services</a></li><li><a href="http://exincorpacademy.com/careers.php">career programs</a></li> </ul> </div>
 							</div>
 						</div>
 									</div>
@@ -170,7 +170,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
         <div class="clearfix"></div>
 <br/>
         <div class="course-content">
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Careers programs</h1><p align="justify">We at exoncorp solutions specialize in offering various types of IT training and educational services which have helped IT professionals and newbie's to improve and gain knowledge in IT domain. The beautifully structured training courses help the people to gain added value and also clear all their doubts. We aim to provide valuable IT training services to our clients from private business enterprise, institutions and even to individuals. Our expert team of trainers makes use of modern teaching techniques through which they offer the clients the most reliable and satisfactory services to the clients. <br><br>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Careers programs</h1><p align="justify">We at exincorp solutions specialize in offering various types of IT training and educational services which have helped IT professionals and newbie's to improve and gain knowledge in IT domain. The beautifully structured training courses help the people to gain added value and also clear all their doubts. We aim to provide valuable IT training services to our clients from private business enterprise, institutions and even to individuals. Our expert team of trainers makes use of modern teaching techniques through which they offer the clients the most reliable and satisfactory services to the clients. <br><br>
           <p align="justify"> With our years of experience in the IT industry we come out with new innovative methods of teachings. We further offer diverse combination training program options to choose from. These programs are designed to meet the various needs of the clients. We also offer distance learning services to our clients. Our combination option program has proved successful and the friendly training environments have gained immense appreciations from our clients. Some of our combination programs which our clients can choose are as follows.</p>
 
 </div></div></div>        </div>

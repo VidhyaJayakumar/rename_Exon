@@ -16,13 +16,13 @@
  <link rel="stylesheet" type="text/css" href="circular-std-book-cufonfonts-webfont/style.css">
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
- <title>exoncorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+ <title>exincorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -39,31 +39,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -72,9 +72,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -82,16 +82,16 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
 
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
@@ -167,7 +167,7 @@ body {
 											<div class="row">
 							<div class="col-md-12">
 																<div class="ptitle">About Us</div>
-																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href=".http://exoncorpacademy.com/">Home</a></li><li><a href="http://exoncorpacademy.com/about.php">About Us</a></li> </ul> </div>
+																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href=".http://exincorpacademy.com/">Home</a></li><li><a href="http://exincorpacademy.com/about.php">About Us</a></li> </ul> </div>
 							</div>
 						</div>
 									</div>
@@ -231,7 +231,7 @@ body {
 </div>
 <div class="team-content">
       <div class="name"><a href="#">Selva Rathinam</a></div>
-      <div class="job">CEO,exoncorp Academy</div>
+      <div class="job">CEO,exincorp Academy</div>
      <div class="team-social">
              <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
              <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
@@ -249,7 +249,7 @@ body {
 </div>
 <div class="team-content">
       <div class="name"><a href="#">siva priya </a></div>
-      <div class="job">operational Director,exoncorp Academy </div>
+      <div class="job">operational Director,exincorp Academy </div>
      <div class="team-social">
              <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
              <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
@@ -267,7 +267,7 @@ body {
 </div>
 <div class="team-content">
       <div class="name"><a href="#">Prabhu </a></div>
-      <div class="job">Manager,exoncorp Academy </div>
+      <div class="job">Manager,exincorp Academy </div>
      <div class="team-social">
              <a class="facebook" href="#"><i class="fa fa-facebook"></i></a>
              <a class="twitter" href="#"><i class="fa fa-twitter"></i></a>
@@ -332,11 +332,11 @@ body {
         <div class="course-content">
           <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
 		  <h5>About Exincorp Academy</h5>
-		  <p align="justify">Exincorp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. exoncorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success. exoncorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p>
+		  <p align="justify">Exincorp Solutions (RBS) is an IT Service & Solution Providers, business solutions and outsourcing organization that delivers real results to global businesses, ensuring a level of certainty that no other firm can match. exincorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success. exincorp Solutions helps you experience certainty by reliably delivering business results, providing leadership to drive transformation and partnering for success.</p>
 		         
 
-		  <h5>exoncorp Academy Profile</h5>
-		  <p align="justify">Exincorp offers innovative Business Technology solutions, to its client's world-over, to Design, Build, Secure and Manage their enterprise network infrastructures. exoncorp has over multi-skilled infrastructure consultants whose expertise spans across, converged IP networking, Servers, Firwalls, Information Security, Unified Communication, Wireless Networking, Business Continuity Solutions, Performance Engineering, Infrastructure Management and Remote Infrastructure Support Services. exoncorp combines it team of experts with innovative business processes and world-class infrastructure & tools to provide best possible value proposition to its clients and build long-lasting Relationship.</p>
+		  <h5>exincorp Academy Profile</h5>
+		  <p align="justify">Exincorp offers innovative Business Technology solutions, to its client's world-over, to Design, Build, Secure and Manage their enterprise network infrastructures. exincorp has over multi-skilled infrastructure consultants whose expertise spans across, converged IP networking, Servers, Firwalls, Information Security, Unified Communication, Wireless Networking, Business Continuity Solutions, Performance Engineering, Infrastructure Management and Remote Infrastructure Support Services. exincorp combines it team of experts with innovative business processes and world-class infrastructure & tools to provide best possible value proposition to its clients and build long-lasting Relationship.</p>
 		  
 		  <h5>Technology & Process Consulting Services</h5>
 		  

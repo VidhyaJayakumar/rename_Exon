@@ -15,13 +15,13 @@
 <link rel="shortcut icon" href="misc/favicon.png" type="misc/favicon.png" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>exoncorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+  <title>exincorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -38,31 +38,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -71,9 +71,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -81,18 +81,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_opFmOflf70ENsEkIuFuzxcalK9OIW51LvhbNSVYLdyQ.css" media="all" />
@@ -129,8 +129,8 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
 				<div class="container">
 											<div class="row">
 							<div class="col-md-12">
-																<div class="ptitle">exoncorp Academy News & Events</div>
-																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exoncorpacademy.com/">Home</a></li> <li><a href="http://exoncorpacademy.com/news.php">news and Events </a></li> </ul> </div>
+																<div class="ptitle">exincorp Academy News & Events</div>
+																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exincorpacademy.com/">Home</a></li> <li><a href="http://exincorpacademy.com/news.php">news and Events </a></li> </ul> </div>
 							</div>
 						</div>
 									</div>
@@ -191,7 +191,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
    				     				</div>  
    			  	<div class="post-content-inner">
    				    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
-                      <i class="icon fa fa-check-square-o"></i>exoncorp SOLUTIONS is now ISO Certified!<br><br>
+                      <i class="icon fa fa-check-square-o"></i>exincorp SOLUTIONS is now ISO Certified!<br><br>
                       <i class="icon fa fa-check-square-o"></i>ISO 9001:2008 - Quality management systems <br><br>
                       <i class="icon fa fa-check-square-o"></i> ISO 27001:2005 Information Security Management System
                       </div></div></div><br><div class="field field-name-field-post-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"></div></div>   			  	</div>
@@ -228,10 +228,10 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
    				     				</div>  
    			  <div class="post-content-inner">
    				    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
-                      <i class="icon fa fa-check-square-o"></i>exoncorp Becomes Intel Technology Provider Gold Partner<br><br>
-                      <i class="icon fa fa-check-square-o"></i>exoncorp IT Training Certifications has been Certified by ISO:IEC 17024<br>
-                      <i class="icon fa fa-check-square-o"></i> exoncorp Initiated the Council for Cyber Security.<br><br>
-						<i class="icon fa fa-check-square-o"></i>exoncorp is Awarded as a "MICROSOFT SMALL BUSINESS SPECIALIST" <br>
+                      <i class="icon fa fa-check-square-o"></i>exincorp Becomes Intel Technology Provider Gold Partner<br><br>
+                      <i class="icon fa fa-check-square-o"></i>exincorp IT Training Certifications has been Certified by ISO:IEC 17024<br>
+                      <i class="icon fa fa-check-square-o"></i> exincorp Initiated the Council for Cyber Security.<br><br>
+						<i class="icon fa fa-check-square-o"></i>exincorp is Awarded as a "MICROSOFT SMALL BUSINESS SPECIALIST" <br>
                       </div></div></div><br><div class="field field-name-field-post-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"></div></div>   			  	</div>
    	   	</div>	
          </div> 
@@ -265,9 +265,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
    				     				</div>  
    			  	<div class="post-content-inner">
    				    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
-                      <i class="icon fa fa-check-square-o"></i><a href="#">exoncorp Academy becomes a Gold Certified Training Partner of Novell</a><br>
-                      <i class="icon fa fa-check-square-o"></i><a href="#">exoncorp Academy becomes a Certified Training Partner for EC-Council</a><br>
-                      <i class="icon fa fa-check-square-o"></i><a href="#">exoncorp Academy becomes a Certified Partner for Fortigate</a><br>
+                      <i class="icon fa fa-check-square-o"></i><a href="#">exincorp Academy becomes a Gold Certified Training Partner of Novell</a><br>
+                      <i class="icon fa fa-check-square-o"></i><a href="#">exincorp Academy becomes a Certified Training Partner for EC-Council</a><br>
+                      <i class="icon fa fa-check-square-o"></i><a href="#">exincorp Academy becomes a Certified Partner for Fortigate</a><br>
 						
                       </div></div></div><br><div class="field field-name-field-post-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"></div></div>   			  	</div>
    	   	</div>	
@@ -302,10 +302,10 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
    				     				</div>  
    			  <div class="post-content-inner">
    				    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
-                      <i class="icon fa fa-check-square-o"></i><a href="#">exoncorp Inaugrated Academic Council for IT Education (exoncorp University)</a><br><br>
+                      <i class="icon fa fa-check-square-o"></i><a href="#">exincorp Inaugrated Academic Council for IT Education (exincorp University)</a><br><br>
                       <i class="icon fa fa-check-square-o"></i><a href="#">Cyber Forensics & Information Security Council Inaugrated <a href="#">| CCFIS</a></a><br><br>
                       <i class="icon fa fa-check-square-o"></i>Initiated a group for Hackers to be Halted <a href="#">| Hackers24x7</a><br><br>
-						<i class="icon fa fa-check-square-o"></i>exoncorp Becomes Member of Data Security Council on India
+						<i class="icon fa fa-check-square-o"></i>exincorp Becomes Member of Data Security Council on India
  <br>
                       </div></div></div><br><div class="field field-name-field-post-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"></div></div>   			  	</div>
    	   	</div>	
@@ -339,13 +339,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
    				      				    
    			 <div class="post-content-inner">
    				    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">
-                      <i class="icon fa fa-check-square-o"></i>exoncorp Academic Coucil has Inaugrated an Talent Acquisition Program for IT Education (RITE)
+                      <i class="icon fa fa-check-square-o"></i>exincorp Academic Coucil has Inaugrated an Talent Acquisition Program for IT Education (RITE)
 <br><br>
-                      <i class="icon fa fa-check-square-o"></i>exoncorp Cyber Security Council Initiated a Security Chapter for exoncorp Hackers for Addressing E-commerce security
+                      <i class="icon fa fa-check-square-o"></i>exincorp Cyber Security Council Initiated a Security Chapter for exincorp Hackers for Addressing E-commerce security
  | CCFIS<br><br>
-                      <i class="icon fa fa-check-square-o"></i>Learnage - A exoncorp Company | Learnage.in is an online education company offering video courses in IT, Technology,software, creative, and business skills.06.06.16
+                      <i class="icon fa fa-check-square-o"></i>Learnage - A exincorp Company | Learnage.in is an online education company offering video courses in IT, Technology,software, creative, and business skills.06.06.16
  | Hackers24x7<br><br>
-                    <i class="icon fa fa-check-square-o"></i>exoncorp Initiated the Council for E-commerce Cyber Security. | EC|SC
+                    <i class="icon fa fa-check-square-o"></i>exincorp Initiated the Council for E-commerce Cyber Security. | EC|SC
 <br><br>
 						
                       </div></div></div><br><div class="field field-name-field-post-term field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"></div></div>   			  	</div>

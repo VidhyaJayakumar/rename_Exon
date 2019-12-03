@@ -20,19 +20,19 @@
     <meta charset="utf-8"/>
     <meta name="description" content="<?php echo $row['c_desc']; ?>"/>
     <meta name="keywords" content="<?php echo $row['c_keyword']; ?>"/>
-  <meta property="og:image" content="http://www.exoncorp.com/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorp.com/"/>
+  <link rel="canonical" href="http://www.exincorp.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
                 <meta name="keywords" content="Spoken English training in vellore, Call center training in vellore, Handwriting training in vellore, Soft skill training in vellore, Spooken English Course in vellore, English Gramer training in vellore, Handwriting improvement training in vellore, Brain Development training in vellore, Coaching center in vellore, Communication Development center in vellore, Personality Development training in vellore, Presentaation skill Development training in vellore, Fluent English training in vellore, BPO training in vellore, UK voice process in vellore, Us voice process in vellore">
                 <meta name="" />
-                <meta property="og:site_name" content="exoncorp.com"/>
-                <meta property="og:url" content="http://www.exoncorp.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorp.com/" >
-                <meta name="twitter:site" content="@exoncorp"/>
+                <meta property="og:site_name" content="exincorp.com"/>
+                <meta property="og:url" content="http://www.exincorp.com/" >   
+                <meta name="twitter:url" content="http://www.exincorp.com/" >
+                <meta name="twitter:site" content="@exincorp"/>
                 <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | Exincorp Academy" >
                 <meta name="twitter:description" content="Exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 <meta name="twitter:image" content="http://www.Exincorp.com/logo.png" >
@@ -44,8 +44,8 @@
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorp.com",
-                    "logo": "http://www.exoncorp.com/logo.png",
+                    "url": "http://www.exincorp.com",
+                    "logo": "http://www.exincorp.com/logo.png",
                     "legalName" : "Exincorp Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
@@ -55,15 +55,15 @@
                     }],
                      "sameAs" : [ 
  "https://www.facebook.com/Exincorp/",
- "https://twitter.com/exoncorp",
+ "https://twitter.com/exincorp",
  "https://plus.google.com/+Exincorp/",
-    "https://www.pinterest.com/exoncorp",
-    "http://youtube.com/exoncorp"
+    "https://www.pinterest.com/exincorp",
+    "http://youtube.com/exincorp"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="Exincorp (www.exoncorp.com)" />
+<meta name="Publisher" content="Exincorp (www.exincorp.com)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
 
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
@@ -982,9 +982,9 @@ Access your courses anywhere, anytime & prepare with practice tests
 </div>
   </div>
                                                                                                                                                     <div class="item content gallery-small-item">  
-          <a href="content/aliquam-faucibus-mliquam-0.php"><img typeof="foaf:Image" src="exoncorp.jpg" width="1170" height="658" alt="" /></a>    
+          <a href="content/aliquam-faucibus-mliquam-0.php"><img typeof="foaf:Image" src="exincorp.jpg" width="1170" height="658" alt="" /></a>    
           <div class="description">
-     <div class="xcolor"><a href="exoncorp.jpg" data-rel="prettyPhoto[g_gal]"><i class="fa fa-search-plus">&nbsp;</i></a></div>
+     <div class="xcolor"><a href="exincorp.jpg" data-rel="prettyPhoto[g_gal]"><i class="fa fa-search-plus">&nbsp;</i></a></div>
     <!-- <div class="body"><a href="content/aliquam-faucibus-mliquam-0.php">Aliquam faucibus mliquam</a></div> -->
 </div>
   </div>

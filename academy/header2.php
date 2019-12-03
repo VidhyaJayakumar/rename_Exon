@@ -176,8 +176,8 @@ if($page == "/index.php")
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorp.com",
-                    "logo": "http://www.exoncorp.com/logo.png",
+                    "url": "http://www.exincorp.com",
+                    "logo": "http://www.exincorp.com/logo.png",
                     "legalName" : "Exincorp Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
@@ -187,10 +187,10 @@ if($page == "/index.php")
                     }],
                      "sameAs" : [ 
  "https://www.facebook.com/Exincorp",
- "https://twitter.com/exoncorp",
+ "https://twitter.com/exincorp",
  "https://plus.google.com/+Exincorp",
-    "https://www.pinterest.com/exoncorp",
-    "http://youtube.com/exoncorp"
+    "https://www.pinterest.com/exincorp",
+    "http://youtube.com/exincorp"
  ]
                 }
             </script>
@@ -242,7 +242,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-46788350-1', 'exoncorp.com');
+  ga('create', 'UA-46788350-1', 'exincorp.com');
   ga('send', 'pageview');
 
 </script>
@@ -259,7 +259,7 @@ if($bcon >= 1) { ?>
 
     <label for="show">SAVE <br> UPTO <br><?php echo $brow['b_offerper']; ?></label>
     
-    <div class="notification-text"><a href="#" data-toggle="modal" data-target="#banner"><img src="http://exoncorp.com/admin/uploads/<?php echo $brow['b_image']; ?>" alt="<?php echo $brow['b_title']; ?>"></a></div>
+    <div class="notification-text"><a href="#" data-toggle="modal" data-target="#banner"><img src="http://exincorp.com/admin/uploads/<?php echo $brow['b_image']; ?>" alt="<?php echo $brow['b_title']; ?>"></a></div>
   </div>
 </div> 
 
@@ -306,7 +306,7 @@ if($bcon >= 1) { ?>
 
          
 <?php
-         $sendto   = "info@exoncorp.com";
+         $sendto   = "info@exincorp.com";
 if(isset($_POST['submit']))
   {
  
@@ -317,14 +317,14 @@ $course = nl2br($_POST['course']);
 $message = nl2br($_POST['message']); 
 
 
-        $subject  = "exoncorp.com Contact Page";
+        $subject  = "exincorp.com Contact Page";
         $headers  = "From: " . strip_tags($mail) . "\r\n";
         $headers .= "Reply-To: ". strip_tags($mail) . "\r\n";
         $headers .= "MIME-Version: 1.0\r\n";
         $headers .= "Content-Type: text/html;charset=utf-8 \r\n";
 
         $msg  = "<html><body style='font-family:Arial,sans-serif;'>";
-        $msg .= "<div style='border:1px solid grey;'> <img src='http://exoncorp.com/images/logo.png'> <div style='float:right;'><a href='http://facebook.com/exoncorp.com'><i class='fa fa-facebook' style='color:red'></i></a> </div>\r\n";
+        $msg .= "<div style='border:1px solid grey;'> <img src='http://exincorp.com/images/logo.png'> <div style='float:right;'><a href='http://facebook.com/exincorp.com'><i class='fa fa-facebook' style='color:red'></i></a> </div>\r\n";
         $msg .= "<div style='width:100%;height:75px;color:white;background-color:#232222;text-align:center;padding-top:20px;'><h1>Offers Enroll From Exincorp Academy</h1></div>\r\n"; 
                $msg .= "<h2 style='font-weight:bold;border-bottom:1px dotted #ccc;'>Student Enrolled Detail</h2>\r\n";
         $msg .= "<p><strong style='text-transform:uppercase;'> Name :</strong> ".$name."</p>\r\n";
@@ -405,13 +405,13 @@ else
 <div class="pull-right text-right">
 <ul class="inline"><!--<li><span> <i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 17:00</span> </li>-->
 <li><span> <i class="fa fa-phone"></i><a href="tel:+91 818 998 5559">(+91) - 818 998 5559  </span> </li>
-<li><span><i class="fa fa-envelope"></i><a href="mailto:info@exoncorp.com">info@exoncorp.com</a></span></li>
+<li><span><i class="fa fa-envelope"></i><a href="mailto:info@exincorp.com">info@exincorp.com</a></span></li>
 </ul></div>
 <div class="pull-right text-left">
 <ul class="inline"><!--<li><span> <i class="fa fa-clock-o"></i>Mon - Fri : 09:00 - 17:00</span> </li>-->
-<li><span> <i class="fa fa-phone"></i><a href="https://exoncorp.com/animation-multimedia"><b>MULTIMEDIA</b></span> </li>
-<li><span><i class="fa fa-envelope"></i><a href="https://exoncorp.com/skill-development"><b>SKILL DEVELOPMENT</b></a></span></li>
-<li><span><i class="fa fa-envelope"></i><a href="https://exoncorp.com/software"><b>SOFTWARE</b></a></span></li>
+<li><span> <i class="fa fa-phone"></i><a href="https://exincorp.com/animation-multimedia"><b>MULTIMEDIA</b></span> </li>
+<li><span><i class="fa fa-envelope"></i><a href="https://exincorp.com/skill-development"><b>SKILL DEVELOPMENT</b></a></span></li>
+<li><span><i class="fa fa-envelope"></i><a href="https://exincorp.com/software"><b>SOFTWARE</b></a></span></li>
 
 </ul></div>
 
@@ -452,7 +452,7 @@ else
     <div class="nav-collapse  always-show">
     <ul  class="tb-megamenu-nav nav level-0 items-7">
   <li  data-id="218" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown active active-trail">
-  <a href="http://exoncorp.com.com/"  class="dropdown-toggle">
+  <a href="http://exincorp.com.com/"  class="dropdown-toggle">
         
     Home          <!--<span class="caret"></span>-->
           </a>
@@ -503,7 +503,7 @@ else
  
 
 <li  data-id="561" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
-  <a href="http://exoncorp.com/courses" class="dropdown-toggle" title="it-courses">
+  <a href="http://exincorp.com/courses" class="dropdown-toggle" title="it-courses">
         
     IT Courses        <span class="caret"></span>
           </a>
@@ -514,38 +514,38 @@ else
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
   <li  data-id="786" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/microsoft-certifications"  title="Microsoft IT Courses">
+  <a href="http://exincorp.com/microsoft-certifications"  title="Microsoft IT Courses">
         
     Microsoft          </a>
   </li>
 
 <li  data-id="787" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/cisco-certifications"  title="Cisco IT Courses">
+  <a href="http://exincorp.com/cisco-certifications"  title="Cisco IT Courses">
         
     Cisco          </a>
   </li>
   <li  data-id="787" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/redhat-certifications"  title="Redhat IT Courses">
+  <a href="http://exincorp.com/redhat-certifications"  title="Redhat IT Courses">
         
     Redhat          </a>
   </li>
   <li  data-id="787" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/vmware-certifications"  title="Vmware IT Courses">
+  <a href="http://exincorp.com/vmware-certifications"  title="Vmware IT Courses">
         
     Vmware          </a>
   </li>
   <li  data-id="787" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/comptia-certifications"  title="Comptia IT Courses">
+  <a href="http://exincorp.com/comptia-certifications"  title="Comptia IT Courses">
         
     Comptia          </a>
   </li>
   <li  data-id="787" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/security-certifications"  title="Security | (Isc2) | Sans | ISACA IT Courses">
+  <a href="http://exincorp.com/security-certifications"  title="Security | (Isc2) | Sans | ISACA IT Courses">
         
     Security | (Isc2)  | Sans | ISACA        </a>
   </li>
             <li  data-id="787" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/ethical-hacking-certifications"  title="Ethical Hacking | Forensics IT Courses">
+  <a href="http://exincorp.com/ethical-hacking-certifications"  title="Ethical Hacking | Forensics IT Courses">
         
     Ethical Hacking | Forensics        </a>
   </li>
@@ -559,7 +559,7 @@ else
 
 
 <li  data-id="1224" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
-  <a href="http://exoncorp.com/certifications"  class="dropdown-toggle" title="Courses">
+  <a href="http://exincorp.com/certifications"  class="dropdown-toggle" title="Courses">
         
     Certifications        
          
@@ -578,26 +578,26 @@ else
     Course Grid          </a>
   </li>-->
   <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropodown-toggle">
-  <a href="http://exoncorp.com/certifications/hardware" >
+  <a href="http://exincorp.com/certifications/hardware" >
         
     HARDWARE         </a> 
     
      
   </li><li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropodown-toggle">
-  <a href="http://exoncorp.com/certifications/networking" >
+  <a href="http://exincorp.com/certifications/networking" >
         
     Networking         </a> 
     
      
   </li><li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropodown-toggle">
-  <a href="http://exoncorp.com/certifications/server" >
+  <a href="http://exincorp.com/certifications/server" >
         
    Server         </a> 
     
      
   </li>
   <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropodown-toggle">
-  <a href="http://exoncorp.com/certifications/security" >
+  <a href="http://exincorp.com/certifications/security" >
         
    Security         </a> 
     
@@ -605,14 +605,14 @@ else
   </li>
 
 <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega dropodown-toggle">
-  <a href="http://exoncorp.com/certifications/android-development" >
+  <a href="http://exincorp.com/certifications/android-development" >
         
      Android Development         </a> 
     
      
   </li>
   <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/certifications/web-development" >
+  <a href="http://exincorp.com/certifications/web-development" >
         
     Web Development         </a>
   </li>
@@ -622,22 +622,22 @@ else
     Python Development        </a>
   </li>
   <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/certifications/seo-digital-marketing" >
+  <a href="http://exincorp.com/certifications/seo-digital-marketing" >
         
     SEO | Digital Marketing       </a>
   </li>
   <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/certifications/cloud-bigdata" >
+  <a href="http://exincorp.com/certifications/cloud-bigdata" >
         
     Cloud | Bigdata        </a>
   </li>
   <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/certifications/itil" >
+  <a href="http://exincorp.com/certifications/itil" >
         
     ITIL       </a>
   </li>
   <li  data-id="1228" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/certifications/iso" >
+  <a href="http://exincorp.com/certifications/iso" >
         
     ISO | Six Sigma
 
@@ -659,7 +659,7 @@ else
 
 
 <li  data-id="1225" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
-  <a href="http://exoncorp.com/programs/"  class="dropdown-toggle" title="Teachers">
+  <a href="http://exincorp.com/programs/"  class="dropdown-toggle" title="Teachers">
         
    Programs          <span class="caret"></span>
           </a>
@@ -670,34 +670,34 @@ else
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <ul  class="tb-megamenu-subnav mega-nav level-1 items-2">
   <li  data-id="1227" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/programs/it-security-programs.php"  title="Teachers Grid">
+  <a href="http://exincorp.com/programs/it-security-programs.php"  title="Teachers Grid">
         
     IT Security Programs          </a>
   </li>
 
 <li  data-id="1226" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/programs/it-programs.php"  title="Teacher Single">
+  <a href="http://exincorp.com/programs/it-programs.php"  title="Teacher Single">
         
     IT Programs          </a>
   </li>
   
   <li  data-id="1226" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/programs/it-service-management.php"  title="Teacher Single">
+  <a href="http://exincorp.com/programs/it-service-management.php"  title="Teacher Single">
         
     IT Service Management          </a>
   </li>
             <li  data-id="1226" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/programs/software-programs.php"  title="Teacher Single">
+  <a href="http://exincorp.com/programs/software-programs.php"  title="Teacher Single">
         
     Software Programs         </a>
   </li>
             <li  data-id="1226" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/programs/corporate.php"  title="Teacher Single">
+  <a href="http://exincorp.com/programs/corporate.php"  title="Teacher Single">
         
     Corporate Program         </a>
   </li>
             <li  data-id="1226" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/programs/careers.php"  title="Teacher Single">
+  <a href="http://exincorp.com/programs/careers.php"  title="Teacher Single">
         
     Career Programs        </a>
   </li>
@@ -711,7 +711,7 @@ else
 
 
 <li  data-id="547" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="center" data-group="0" data-hidewcol="1" data-hidesub="0" class="tb-megamenu-item level-1 mega mega-align-center sub-hidden-collapse dropdown">
-  <a href="http://exoncorp.com/services.php"  class="dropdown-toggle">
+  <a href="http://exincorp.com/services.php"  class="dropdown-toggle">
         
 Services         <span class="caret"></span>
           </a>
@@ -722,7 +722,7 @@ Services         <span class="caret"></span>
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <ul  class="tb-megamenu-subnav mega-nav level-1 items-11">
   <li  data-id="560" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/workshop.php" >
+  <a href="http://exincorp.com/workshop.php" >
         
     Workshop          </a>
   </li>
@@ -734,49 +734,49 @@ Services         <span class="caret"></span>
   </li>
 
 <li  data-id="556" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/customized.php" >
+  <a href="http://exincorp.com/customized.php" >
         
     Customized Training         </a>
   </li>
 
 <li  data-id="555" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/careers.php" >
+  <a href="http://exincorp.com/careers.php" >
         
     Career Programs       </a>
   </li>
 
 <li  data-id="554" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/boot.php" >
+  <a href="http://exincorp.com/boot.php" >
         
     Boot Camp          </a>
   </li>
 
 <li  data-id="559" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/webinars.php" >
+  <a href="http://exincorp.com/webinars.php" >
         
     Webinars        </a>
   </li>
 
 <li  data-id="550" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/final-year-project-in-vellore.php" >
+  <a href="http://exincorp.com/final-year-project-in-vellore.php" >
         
     Final Year Projects          </a>
   </li>
 
 <li  data-id="558" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/internship-in-vellore.php" >
+  <a href="http://exincorp.com/internship-in-vellore.php" >
         
     Internships         </a>
   </li>
 
 <li  data-id="785" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/corporate.php" >
+  <a href="http://exincorp.com/corporate.php" >
         
     Corporate Training          </a>
   </li>
 
   <li  data-id="785" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.com/online-training.php" >
+  <a href="http://exincorp.com/online-training.php" >
         
     Online Training        </a>
   </li>
@@ -859,7 +859,7 @@ Services         <span class="caret"></span>
 </li>-->
 
 <li  data-id="436" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-1 mega dropdown">
-  <a href="hhttp://exoncorp.com/services.php"  class="dropdown-toggle" title="Post">
+  <a href="hhttp://exincorp.com/services.php"  class="dropdown-toggle" title="Post">
         
     Company          <span class="caret"></span>
           </a>
@@ -870,7 +870,7 @@ Services         <span class="caret"></span>
   <div class="tb-megamenu-column-inner mega-inner clearfix">
         <ul  class="tb-megamenu-subnav mega-nav level-1 items-9">
   <li  data-id="798" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://exoncorp.blogspot.in/" target="_blank"  title="Blog Masonry 2 columns">
+  <a href="http://exincorp.blogspot.in/" target="_blank"  title="Blog Masonry 2 columns">
         
     Blog          </a>
   </li>
@@ -888,7 +888,7 @@ Services         <span class="caret"></span>
   </li>
 
 <li  data-id="431" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" class="tb-megamenu-item level-2 mega">
-  <a href="http://z13.invisionfree.com/exoncorp/index.php" target="_blank"  title="Category Fashion">
+  <a href="http://z13.invisionfree.com/exincorp/index.php" target="_blank"  title="Category Fashion">
         
     Forums        </a>
   </li>
@@ -945,7 +945,7 @@ Services         <span class="caret"></span>
       <div>
         <div><div class="gavias-search-form">
    <div class="search-icon">
-   	 <a href="http://exoncorp.com/admin/login.php"> <i class="fa fa-user"></i></a>
+   	 <a href="http://exincorp.com/admin/login.php"> <i class="fa fa-user"></i></a>
    </div>
 </div>   
 
@@ -1010,7 +1010,7 @@ document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==1
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-46788350-1', 'exoncorp.com');
+  ga('create', 'UA-46788350-1', 'exincorp.com');
   ga('send', 'pageview');
 
 </script>

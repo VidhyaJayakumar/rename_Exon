@@ -25,13 +25,13 @@ else
 <link rel="shortcut icon" href="misc/favicon.png" type="misc/favicon.png" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>exoncorp IT Academy - computer IT Training Institutes Python,Cisco,networking,security,hacking in <?php echo $place; ?>, IT Training Company in <?php echo $place; ?>, computer training institutes 
+  <title>exincorp IT Academy - computer IT Training Institutes Python,Cisco,networking,security,hacking in <?php echo $place; ?>, IT Training Company in <?php echo $place; ?>, computer training institutes 
 
 in <?php echo $place; ?>,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  <?php echo $place; ?>, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For Python, CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes Cisco,networking,security,hacking in <?php echo $place; ?>, IT training in <?php echo $place; ?>, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes Cisco,networking,security,hacking in <?php echo $place; ?>, IT training in <?php echo $place; ?>, IT 
 
 Training Company in <?php echo $place; ?>,   IT training academy in <?php echo $place; ?>,IT Training Institutes in gudiyatham,  Hacking Institutes in <?php echo $place; ?>, Hacking Training in <?php echo $place; ?>, IT 
 
@@ -48,31 +48,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 Cisco,networking,security,hacking in <?php echo $place; ?>, IT training institutes in <?php echo $place; ?>, computer training institutes in <?php echo $place; ?>, Computer Training Centre in <?php echo $place; ?>, 
 
-Computer Education Centre in <?php echo $place; ?>, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in <?php echo $place; ?>, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in <?php echo $place; ?>, Computer Training Centre in <?php echo $place; ?>, IT Training Center in <?php echo $place; ?>,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in <?php echo $place; ?>, Computer Training Centre in <?php echo $place; ?>, IT Training Center in <?php echo $place; ?>,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in <?php echo $place; ?> ,it certifications, Best Computer Institute in <?php echo $place; ?>, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Cisco Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorp.com/"/>
+  <link rel="canonical" href="http://www.exincorp.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorp.com"/>
-                <meta property="og:url" content="http://www.exoncorp.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorp.com/" >
-                <meta name="twitter:site" content="@exoncorp"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorp.com"/>
+                <meta property="og:url" content="http://www.exincorp.com/" >   
+                <meta name="twitter:url" content="http://www.exincorp.com/" >
+                <meta name="twitter:site" content="@exincorp"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -81,9 +81,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorp.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorp.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -91,18 +91,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorp/",
- "https://twitter.com/exoncorp",
- "https://plus.google.com/+exoncorpIndia/",
-    "https://www.pinterest.com/exoncorp",
-    "http://youtube.com/exoncorp"
+ "https://www.facebook.com/exincorp/",
+ "https://twitter.com/exincorp",
+ "https://plus.google.com/+exincorpIndia/",
+    "https://www.pinterest.com/exincorp",
+    "http://youtube.com/exincorp"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
   <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_opFmOflf70ENsEkIuFuzxcalK9OIW51LvhbNSVYLdyQ.css" media="all" />
@@ -210,9 +210,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
         <div class="clearfix"></div>
 
         <div class="course-content">
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="justify">We at exoncorp solutions specialize in offering various types of IT training and educational services which have helped IT professionals and newbie's to improve and gain knowledge in IT domain. The beautifully structured training courses help the people to gain added value and also clear all their doubts. We aim to provide valuable IT training services to our clients from private business enterprise, institutions and even to individuals. Our expert team of trainers makes use of modern teaching techniques through which they offer the clients the most reliable and satisfactory services to the clients. With our years of experience in the IT industry we come out with new innovative methods of teachings. We further offer diverse combination training program options to choose from. These programs are designed to meet the various needs of the clients. We also offer distance learning services to our clients. Our combination option program has proved successful and the friendly training environments have gained immense appreciations from our clients. Some of our combination programs which our clients can choose are as follows.</p>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p align="justify">We at exincorp solutions specialize in offering various types of IT training and educational services which have helped IT professionals and newbie's to improve and gain knowledge in IT domain. The beautifully structured training courses help the people to gain added value and also clear all their doubts. We aim to provide valuable IT training services to our clients from private business enterprise, institutions and even to individuals. Our expert team of trainers makes use of modern teaching techniques through which they offer the clients the most reliable and satisfactory services to the clients. With our years of experience in the IT industry we come out with new innovative methods of teachings. We further offer diverse combination training program options to choose from. These programs are designed to meet the various needs of the clients. We also offer distance learning services to our clients. Our combination option program has proved successful and the friendly training environments have gained immense appreciations from our clients. Some of our combination programs which our clients can choose are as follows.</p>
 
-            <div class="clearfix"><h3>OVERVIEW</h3><p style="text-align:justify">Python is relatively easier to code with the use of elements from human language and useful for developing both simple and high-end applications. This great advantage make Python very popular in the IT industry. Now, experts see a rise in its usage in web development. Being the best Python training institute in Vellore, exoncorp Academy  understand the latest trends and provide intensive Python training in Vellore. Learn with brilliant trainers and acquire exceptional skills in Python programming. Trash your concerns, get your dream career at your door.</p></div>
+            <div class="clearfix"><h3>OVERVIEW</h3><p style="text-align:justify">Python is relatively easier to code with the use of elements from human language and useful for developing both simple and high-end applications. This great advantage make Python very popular in the IT industry. Now, experts see a rise in its usage in web development. Being the best Python training institute in Vellore, exincorp Academy  understand the latest trends and provide intensive Python training in Vellore. Learn with brilliant trainers and acquire exceptional skills in Python programming. Trash your concerns, get your dream career at your door.</p></div>
 
 </div></div></div>        </div>
 

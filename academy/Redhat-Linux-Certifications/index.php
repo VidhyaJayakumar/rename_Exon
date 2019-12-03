@@ -125,7 +125,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                       <div class="row">
               <div class="col-md-12">
                                 <div class="ptitle">redhat-certifications</div>
-                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="index.php">Home</a></li> <li><a href="http://exoncorp.com/academy/redhat-certifications" title="" class="active">redhat-certifications</a></li> </ul> </div>
+                                <div id="breadcrumbs"><ul class="breadcrumb"><li><a href="index.php">Home</a></li> <li><a href="http://exincorp.com/academy/redhat-certifications" title="" class="active">redhat-certifications</a></li> </ul> </div>
               </div>
             </div>
                   </div>
@@ -190,11 +190,11 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
          <div class="title"> 
             <span class="field-content"><a href="rhce.php">RHCE</a></span>         </div>  
          <div class="teacher"> 
-            <div class="field-content"><a href="http://exoncorp.com/academy/rhce.php">Siva Priya</a></div>         </div>
+            <div class="field-content"><a href="http://exincorp.com/academy/rhce.php">Siva Priya</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p> RHCE is a certification you can earn to become a RHCSA.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/rhce.php">View more</a>
+            <a href="http://exincorp.com/academy/rhce.php">View more</a>
          </div>
       </div>
    </div>
@@ -211,11 +211,11 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
          <div class="title"> 
             <span class="field-content"><a href="rhca.php">RHCA</a></span>         </div>  
          <div class="teacher"> 
-            <div class="field-content"><a href="http://exoncorp.com/academy/rhca.php">Prabhu</a></div>         </div>
+            <div class="field-content"><a href="http://exincorp.com/academy/rhca.php">Prabhu</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p>RHCA courses can be pursued on a modulebasis.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/rhca.php">View more</a>
+            <a href="http://exincorp.com/academy/rhca.php">View more</a>
          </div>
       </div>
    </div>
@@ -230,13 +230,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/rhcsa.php">RHCSA</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/rhcsa.php">RHCSA</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content"><a href="RHCSA.php">Saran kumar</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p>Once you have completed this course,you will be capable of taking the RHCSA EX200 exam  </p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/rhcsa.php">View more</a>
+            <a href="http://exincorp.com/academy/rhcsa.php">View more</a>
          </div>
       </div>
    </div>
@@ -251,13 +251,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/rhcva.php">RHCVA</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/rhcva.php">RHCVA</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content"><a href="#">Guru</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p>RHCVA certification have right skill & knowledge to manage Red Hat solutions.</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/rhcva.php">View more</a>
+            <a href="http://exincorp.com/academy/rhcva.php">View more</a>
          </div>
       </div>
    </div>
@@ -271,13 +271,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/rhcss.php">RHCSS</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/rhcss.php">RHCSS</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content"><a href="#">Balaji</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p>RHCSS is a security certification that proves advanced skills in Red Hat Linux,SELinux</p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/rhcss.php">View more</a>
+            <a href="http://exincorp.com/academy/rhcss.php">View more</a>
          </div>
       </div>
    </div>
@@ -291,13 +291,13 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
       </div>  
       <div class="item-body">
          <div class="title"> 
-            <span class="field-content"><a href="http://exoncorp.com/academy/rhcds.php">RHCDS</a></span>         </div>  
+            <span class="field-content"><a href="http://exincorp.com/academy/rhcds.php">RHCDS</a></span>         </div>  
          <div class="teacher"> 
             <div class="field-content"><a href="#">Naveen kumar</a></div>         </div>
          <div class="body">        
             <div class="field-content"><p>RHCDS which help to build manageable solutions. </p></div>         </div>
          <div class="readmore">        
-            <a href="http://exoncorp.com/academy/rhcds.php">View more</a>
+            <a href="http://exincorp.com/academy/rhcds.php">View more</a>
          </div>
       </div>
    </div>

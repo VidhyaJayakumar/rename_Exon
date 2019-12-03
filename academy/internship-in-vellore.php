@@ -19,24 +19,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
    <title> internship in vellore</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" Apply for Internships in Vellore on exoncorp IT Academy - India's Largest Internship   for College Students."/>
+    <meta name="description" content=" Apply for Internships in Vellore on exincorp IT Academy - India's Largest Internship   for College Students."/>
     <meta name="keywords" content="Internship in Vellore | internship in vellore for cse,ece,it,eee |summer internship in vellore |internship training in vellore|internship for engineering students|internship in india | companies that offer internships for college students"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -45,9 +45,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -55,18 +55,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_opFmOflf70ENsEkIuFuzxcalK9OIW51LvhbNSVYLdyQ.css" media="all" />
@@ -100,9 +100,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
 											<div class="row">
 							<div class="col-md-12">
 																<div class="ptitle">Internship for College Students  </div>
-																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exoncorpacademy.com/">Home</a></li>
-																<li><a href="http://exoncorpacademy.com/services.php">services</a></li>
-																<li><a href="http://exoncorpacademy.com/internship-in-vellore.php">Internship</a></li> </ul> </div>
+																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exincorpacademy.com/">Home</a></li>
+																<li><a href="http://exincorpacademy.com/services.php">services</a></li>
+																<li><a href="http://exincorpacademy.com/internship-in-vellore.php">Internship</a></li> </ul> </div>
 							</div>
 						</div>
 									</div>
@@ -145,7 +145,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
         <div class="clearfix"></div>
 <br/>
         <div class="course-content">
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Internship In exoncorp </h1><p align="justify"><strong>Overview:</strong>&nbsp;exoncorp Academy – The leading skill development company in Vellore provides best in Internship & real time projects in Vellore for students pursuing B.E, B.Tech, M.E, M.tech.Training will be provided on each and every module by our highly skilled project development team with faculties having more than 10 years of experience in IT industry & project development. exoncorp Academy project development team will help you with designing, developing and deploying/executing your Live projects.<br></p>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Internship In exincorp </h1><p align="justify"><strong>Overview:</strong>&nbsp;exincorp Academy – The leading skill development company in Vellore provides best in Internship & real time projects in Vellore for students pursuing B.E, B.Tech, M.E, M.tech.Training will be provided on each and every module by our highly skilled project development team with faculties having more than 10 years of experience in IT industry & project development. exincorp Academy project development team will help you with designing, developing and deploying/executing your Live projects.<br></p>
 <br>
  
 
@@ -262,14 +262,14 @@ Project Duration: 3 Hours<br>
 
 </div></div></div>        </div><br><br>
             <div class="course-content">
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h3>Why exoncorp</h3><br><p align="justify"><strong>exoncorp( exoncorp Academy) is a leading Training and Placement company in Vellore managed by IT veterans with more than a decade experience in leading MNC companies. We are known for our practical approach towards trainings that enable students to gain real-time exposure on competitive technologies. Trainings are offered by employees from MNCs to give a real corporate exposure.<br>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h3>Why exincorp</h3><br><p align="justify"><strong>exincorp( exincorp Academy) is a leading Training and Placement company in Vellore managed by IT veterans with more than a decade experience in leading MNC companies. We are known for our practical approach towards trainings that enable students to gain real-time exposure on competitive technologies. Trainings are offered by employees from MNCs to give a real corporate exposure.<br>
 
 
 
 </div></div></div>        </div><br><br>
             
             <div class="course-content">
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h3>Benefits</h3><p align="justify"><strong>Benefits Of Doing Final Year Project In Vellore at exoncorp Academy<br>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h3>Benefits</h3><p align="justify"><strong>Benefits Of Doing Final Year Project In Vellore at exincorp Academy<br>
 
 
 

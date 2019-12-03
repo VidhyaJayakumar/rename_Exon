@@ -33,7 +33,7 @@ in <?php echo $place; ?>,gudiyatham,kanchipuram,chennai, Training and Certificat
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes server,networking,security,hacking in <?php echo $place; ?>, IT training in <?php echo $place; ?>, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes server,networking,security,hacking in <?php echo $place; ?>, IT training in <?php echo $place; ?>, IT 
 
 Training Company in <?php echo $place; ?>,   IT training academy in <?php echo $place; ?>,IT Training Institutes in gudiyatham,  Hacking Institutes in <?php echo $place; ?>, Hacking Training in <?php echo $place; ?>, IT 
 
@@ -50,31 +50,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in <?php echo $place; ?>, IT training institutes in <?php echo $place; ?>, computer training institutes in <?php echo $place; ?>, Computer Training Centre in <?php echo $place; ?>, 
 
-Computer Education Centre in <?php echo $place; ?>, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in <?php echo $place; ?>, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in <?php echo $place; ?>, Computer Training Centre in <?php echo $place; ?>, IT Training Center in <?php echo $place; ?>,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in <?php echo $place; ?>, Computer Training Centre in <?php echo $place; ?>, IT Training Center in <?php echo $place; ?>,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in <?php echo $place; ?> ,it certifications, Best Computer Institute in <?php echo $place; ?>, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -83,9 +83,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -93,18 +93,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
 
   <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
@@ -222,7 +222,7 @@ In simpler terms, website design means planning, constructing and updating of we
 <strong align="justify">What is web development?</strong>
 Once the website is designed, you may want to make it more purposeful & interactive by adding few functions like Lead generation form, Chat option, Discussion board, Auto-calculations, Data storage etc. The task of coding or programming that enables website functionality is termed as Web development & it mainly deals with the non-design aspect of building websites. Web development ranges from creating plain text pages to complex Web-based applications, client-side/server-side scripting, social network applications, electronic business applications, network security configuration etc. <br>
 
-<strong align="justify">Web Developer Training Program @ exoncorp IT Academy</strong>
+<strong align="justify">Web Developer Training Program @ exincorp IT Academy</strong>
 Our Web designing & development training program has been designed in such a holistic manner that it makes those students taking the course a thorough professional by the end of it. This web design & development course is totally job-oriented with more prominence being given to practical sessions.<br>
 
 By the end of the web design & development course, the student would have worked on few real-time projects as part of his/her training program, & they would receive regular assessment of their works from the industry professionals. We assist the students in designing & developing an advanced website as their final project, which would serve as their showreel & help them secure a good job.</p>

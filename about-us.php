@@ -105,7 +105,7 @@
                         <p>Who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain desires to obtain pain of itself, because it is pain, but because occur in which toil and pain.</p>
                     </div>
                     <div class="bottom">
-                        <a class="readmore thm-btn bgclr-1" href="http://exoncorp.com/contact.php" target="_blank">Contact Us</a>
+                        <a class="readmore thm-btn bgclr-1" href="http://exincorp.com/contact.php" target="_blank">Contact Us</a>
                         <div class="signature">
                             <img src="images/about/signature.png" alt="Signature">
                         </div>

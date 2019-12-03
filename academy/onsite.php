@@ -15,13 +15,13 @@
 <link rel="shortcut icon" href="misc/favicon.png" type="misc/favicon.png" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
- <title>exoncorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+ <title>exincorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -38,31 +38,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -71,9 +71,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -81,18 +81,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
 
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
@@ -126,7 +126,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
 											<div class="row">
 							<div class="col-md-12">
 																<div class="ptitle">Onsite Training</div>
-																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exoncorpacademy.com/">Home</a></li> <li><a href="http://exoncorpacademy.com/services.php">Services</a></li><li><a href="http://exoncorpacademy.com/onsite.php">Onsite training  </a></li></ul> </div>
+																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exincorpacademy.com/">Home</a></li> <li><a href="http://exincorpacademy.com/services.php">Services</a></li><li><a href="http://exincorpacademy.com/onsite.php">Onsite training  </a></li></ul> </div>
 							</div>
 						</div>
 									</div>
@@ -168,7 +168,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
         <div class="clearfix"></div>
 <br/>
         <div class="course-content">
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Onsite Training</h1><p align="justify">World-class training from exoncorp at your location. <br/><br/>With on-site training from exoncorp, it's easy to ensure that your team has the right skills to maximize your technology investment.
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Onsite Training</h1><p align="justify">World-class training from exincorp at your location. <br/><br/>With on-site training from exincorp, it's easy to ensure that your team has the right skills to maximize your technology investment.
 		If you've got several people to train in the same technology, or you need training customized for a non-standard technology deployment, there's no need to travel for the training you need. 
 		On-site training saves money by eliminating travel and hotel expenses. 
 		You also enjoy greater flexibility and more control, factors that can provide stronger results.</p>

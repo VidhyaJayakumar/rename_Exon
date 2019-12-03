@@ -17,13 +17,13 @@
  <link rel="stylesheet" type="text/css" href="font-style.css">
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>exoncorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+  <title>exincorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -40,31 +40,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -73,9 +73,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -83,18 +83,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
 
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
@@ -205,7 +205,7 @@ h4, h5 {
 											<div class="row">
 							<div class="col-md-12">
 																<div class="ptitle">Contact</div>
-																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exoncorpacademy.com/">Home</a></li> <li><a href="http://exoncorpacademy.com/contactus.php">contact us </a></li> </ul> </div>
+																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exincorpacademy.com/">Home</a></li> <li><a href="http://exincorpacademy.com/contactus.php">contact us </a></li> </ul> </div>
 							</div>
 						</div>
 									</div>
@@ -265,7 +265,7 @@ h4, h5 {
    
     <div class="block-content">
       <div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7777.0171967571305!2d79.16858!3d12.939274!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4b56cdc1f6ba4565!2sexoncorp+IT+Academy!5e0!3m2!1sen!2sin!4v1504962834430" width="800" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> 
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7777.0171967571305!2d79.16858!3d12.939274!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4b56cdc1f6ba4565!2sexincorp+IT+Academy!5e0!3m2!1sen!2sin!4v1504962834430" width="800" height="500" frameborder="0" style="border:0" allowfullscreen></iframe> 
         
         
         </div>
@@ -297,7 +297,7 @@ h4, h5 {
       <div>
         <div class="view view-teacher view-id-teacher view-display-id-page_teacher_grid view-dom-id-4348dd297ed2cd61fc941ed0f5228a25">
         
-  <center><h4>exoncorp IT ACADEMY | TRAINING | CERTIFICATIONS</h4></center>
+  <center><h4>exincorp IT ACADEMY | TRAINING | CERTIFICATIONS</h4></center>
   
       <div class="view-content">
       <div >
@@ -314,7 +314,7 @@ h4, h5 {
          <div class="body">        
             <div class="field-content"><p># Annanagar, 
 Chennai - 600004 . 
-Email:info@exoncorps.in<br>
+Email:info@exincorps.in<br>
 Cell: +91 8189985559</p>
 </div>         </div>
          <div class="readmore clearfix">        
@@ -337,7 +337,7 @@ Cell: +91 8189985559</p>
          <div class="body">        
             <div class="field-content"><p># New Temple Land, 
 Hosur - 634344 . 
-Email:info@exoncorps.in<br>
+Email:info@exincorps.in<br>
 Cell: +91 8189985556</p>
 </div>         </div>
          <div class="readmore clearfix">        
@@ -361,7 +361,7 @@ Cell: +91 8189985556</p>
             <div class="field-content"><p># Hari Om 2nd Street,
 Phase-III,Sathuvachari, 
 Vellore-632009
-Email :info@exoncorps.in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+Email :info@exincorps.in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 Cell : +91 8189985559</p>
 </div>         </div>
          <div class="readmore clearfix">        
@@ -385,7 +385,7 @@ Cell : +91 8189985559</p>
             <div class="field-content"><p># No :09/20 , Palamner Road, 
 Kondasamuthram, 
 Gudiyatham-632602 
-Email:info@exoncorps.in<br>
+Email:info@exincorps.in<br>
 Cell: +91 8189985555</p>
 </div>         </div>
          <div class="readmore clearfix">        
@@ -407,7 +407,7 @@ Cell: +91 8189985555</p>
             <div class="field-content"></div>         </div>
          <div class="body">        
             <div class="field-content"><p># Kanchipuram
-Email:info@exoncorps.in<br>
+Email:info@exincorps.in<br>
 Cell: +91 81899 85559</p>
 </div>         </div>
          <div class="readmore clearfix">        
@@ -429,7 +429,7 @@ Cell: +91 81899 85559</p>
          <div class="body">        
             <div class="field-content"><p># Vengikkal, 
 Tiruvannamalai-606604
-Email:info@exoncorps.in<br>
+Email:info@exincorps.in<br>
 Cell: +91 81899 85559
 </p>
 </div>         </div>
@@ -526,11 +526,11 @@ Cell: +91 81899 85559
     <div class="block-content">
       <div><br><br>
              <div class="contact-info">
-    <span class="description"> <p>exoncorp Academy is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally.</p><br>
+    <span class="description"> <p>exincorp Academy is devoted to excellence in teaching, learning, and research, and to developing leaders in many disciplines who make a difference globally.</p><br>
         <p>We have taken to heart the revolutionary spirit that founded our academy and encourage each other to pursue unpredicted lines of thinking in order to effect change on local and international scales.</p></span><br>
 <ul class="contact-info"><li><span><i class="fa fa-home"></i> No: 05 / x2 , Hari Om 2nd Street, Phase III, Sathuvachari, Vellore, Tamil Nadu-632009</span> </li><br>
 <li><span><i class="fa fa-mobile-phone"></i><a href="tel:+91 8189985551"> (+91) 8189985551 |<a href="tel:+91 8189985559"> (+91) 8189985559 </span></li><br>
-<li><a href="mailto:training@exoncorps.in"><i class="fa fa-envelope-o"></i> training@exoncorps.in</a> </li><br>
+<li><a href="mailto:training@exincorps.in"><i class="fa fa-envelope-o"></i> training@exincorps.in</a> </li><br>
 <li><span><i class="fa fa-whatsapp" style="color: #43d854;"></i>whatsapp</span>: 8189985559 </li><br>
 </ul></div>
               </div>

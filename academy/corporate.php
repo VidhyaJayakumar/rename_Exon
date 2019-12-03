@@ -15,13 +15,13 @@
  <link rel="stylesheet" type="text/css" href="font-style.css">
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <title>exoncorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
+  <title>exincorp IT Academy - computer IT Training Institutes server,networking,security,hacking in vellore, IT Training Company in vellore, computer training institutes 
 
 in vellore,gudiyatham,kanchipuram,chennai, Training and Certifications Institute in  Vellore, Kanchipuram, Chennai, Gudiyattam, Hosur. Experts in IT Training ,Online 
 
 Training For CEH, MCSE, MCITP, CCNA, RHCE, Information Security, CISSP</title>
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
+    <meta name="description" content=" exincorp IT Academy,computer IT Training Institutes server,networking,security,hacking in vellore, IT training in vellore, IT 
 
 Training Company in vellore,   IT training academy in vellore,IT Training Institutes in gudiyatham,  Hacking Institutes in vellore, Hacking Training in vellore, IT 
 
@@ -38,31 +38,31 @@ hacking, certified ethical hacker, internet security, network"/>
 
 server,networking,security,hacking in vellore, IT training institutes in vellore, computer training institutes in vellore, Computer Training Centre in Vellore, 
 
-Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exoncorp Academy, exoncorp IT Academy, exoncorp 
+Computer Education Centre in Vellore, IT Training Institutes in gudiyathamCorporate Training, Soft Skills Training, exincorp Academy, exincorp IT Academy, exincorp 
 
-Training Centre, exoncorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exoncorp 
+Training Centre, exincorp Training Centre in Vellore, Computer Training Centre in Vellore, IT Training Center in vellore,  Computer Training Centre in Tamilnadu,exincorp 
 
 IT Academy , it training institutes in vellore ,it certifications, Best Computer Institute in vellore, Gudiyatham, Kanchipuram, IT Courses,  Training Institute for 
 
 Server Training, Hardware Networking, IT Training Insitute, Computer Training Institute, IT Certifications, Microsoft Training, Redhat Training, Ethical Hacking 
 
 Training, Cisco Training, Softwares, ISO Training, Boot Camps, web designin"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -71,9 +71,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -81,18 +81,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
 
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
@@ -128,7 +128,7 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
 											<div class="row">
 							<div class="col-md-12">
 																<div class="ptitle">Corporate Training</div>
-																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exoncorpacademy.com/">Home</a></li> <li><a href="http://exoncorpacademy.com/services.php">services</a></li><li><a href="http://exoncorpacademy.com/corporate.php">corporate training</a></li></ul> </div>
+																<div id="breadcrumbs"><ul class="breadcrumb"><li><a href="http://exincorpacademy.com/">Home</a></li> <li><a href="http://exincorpacademy.com/services.php">services</a></li><li><a href="http://exincorpacademy.com/corporate.php">corporate training</a></li></ul> </div>
 							</div>
 						</div>
 									</div>
@@ -170,10 +170,10 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
         <div class="clearfix"></div>
 <br/>
         <div class="course-content">
-          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Corporate Training</h1><p align="justify">Exincorp Academy is a leading provider of professional certification training solutions worldwide. Professionals from across 150+ countries including aspirants from the world's leading Fortune 500 companies have used exoncorp learning methodology to grow their careers. With its flagship Corporate Training Program (CTP) platform, exoncorp has helped organizations empower their employees with the right skills and knowledge of best practices for excellence at work. exoncorp has been working with business across the globe to enhance and develop professional skills of employees. We deliver traditional class room trainings , innovative training sessions for soft skills and World class online trainings. Our carefully chosen trainer base of over 300 + trainers are the best in the industry . <br><br></p>
+          <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"> <h1>Corporate Training</h1><p align="justify">Exincorp Academy is a leading provider of professional certification training solutions worldwide. Professionals from across 150+ countries including aspirants from the world's leading Fortune 500 companies have used exincorp learning methodology to grow their careers. With its flagship Corporate Training Program (CTP) platform, exincorp has helped organizations empower their employees with the right skills and knowledge of best practices for excellence at work. exincorp has been working with business across the globe to enhance and develop professional skills of employees. We deliver traditional class room trainings , innovative training sessions for soft skills and World class online trainings. Our carefully chosen trainer base of over 300 + trainers are the best in the industry . <br><br></p>
 <p align="justify"> A dedicated Program Coordinator is assigned for every client. Our coordinators ensure that communication with the training managers are kept active at all times. The coordinators ensure smooth execution of the classes and act as a sounding board for the participants. 
 Our Corporate training programs are categorized into ,<br>
-exoncorp Academy provides corporate training in emerging technologies like IT, project management, Scrum and Agile development, digital marketing, and more. With our live and online training solutions, we help companies and teams get the skills they need to succeed in the digital economy.
+exincorp Academy provides corporate training in emerging technologies like IT, project management, Scrum and Agile development, digital marketing, and more. With our live and online training solutions, we help companies and teams get the skills they need to succeed in the digital economy.
 </p>
 
 </div></div></div>        </div>
@@ -200,7 +200,7 @@ exoncorp Academy provides corporate training in emerging technologies like IT, p
                   <h3>High impact training</h3><p align="justify">Exincorp partners with Businesses to help manage the Learning and Development needs of the companies. High Impact trainings are result oriented trainings focused on productivity of the employee immediately after the training . the employees are put through a pre training assessment to asses the skill levels and the training is tailor made according to the out put required. A post training assessment is done to ensure that the objectives are met . the assessments are then shared with the training departments to plan the follow up trainings and assessments.     <br>
 This methodology is particularly helpful for Companies looking for ROI on the training budgets. This will also suit companies looking for intensive trainings to fulfil their project requirements. 
 </p><br>
-                  <h3>Independent Learning</h3><p align="justify">This offering helps training managers to plan and execute individual trainings requirements. A Program Coordinator from exoncorp will work with the Training department to Plan and execute trainings for individual employees. The training requirement in this case is mostly a single employee seeking to enhance his / her skill set in a particular domain. Our program Coordinators will asses the requirement and match the trainings to suit the participant's schedule. 
+                  <h3>Independent Learning</h3><p align="justify">This offering helps training managers to plan and execute individual trainings requirements. A Program Coordinator from exincorp will work with the Training department to Plan and execute trainings for individual employees. The training requirement in this case is mostly a single employee seeking to enhance his / her skill set in a particular domain. Our program Coordinators will asses the requirement and match the trainings to suit the participant's schedule. 
 </p><br>
                   <h3>Regular Training</h3><p align="justify">Exincorp Academy has been a pioneer in Corporate trainings and has earned the reputation as a trusted partner . Training managers can find trainers and trainings for every training requirement of theirs. we deliver a comprehensive range of trainings and Certifications. Our ability to manage cross domain , multiple trainings have positively impacted our customer base.Our Program Coordinators would schedule a public or private batch for your training requirements based on the number of participants . These trainings are low on budgets and are quick to execute. 
 </p>

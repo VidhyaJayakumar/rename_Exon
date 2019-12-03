@@ -12,27 +12,27 @@
 <link rel="shortcut icon" href="misc/favicon.png" type="misc/favicon.png" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-   <title>exoncorp IT Academy - Spoken English Classes in Chennai | Spoken English in vellore </title>
+   <title>exincorp IT Academy - Spoken English Classes in Chennai | Spoken English in vellore </title>
    <!-- This site is optimized with the Yoast SEO plugin v5.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="exoncorp offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute vellore details of our coaching center call @8189985559."/>
-<link rel="canonical" href="https://www.exoncorp.in/spoken-english-classes-in-vellore/" />
-<link rel="publisher" href="https://plus.google.com/+exoncorpacademy/posts"/>
+<meta name="description" content="exincorp offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute vellore details of our coaching center call @8189985559."/>
+<link rel="canonical" href="https://www.exincorp.in/spoken-english-classes-in-vellore/" />
+<link rel="publisher" href="https://plus.google.com/+exincorpacademy/posts"/>
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Spoken English Classes in vellore | Spoken English in vellore" />
-<meta property="og:description" content="exoncorp offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute vellore details of our coaching center call @8189985559." />
-<meta property="og:url" content="https://www.exoncorp.in/spoken-english-classes-in-vellore/" />
-<meta property="og:site_name" content="exoncorp" />
-<meta property="article:publisher" content="http://facebook.com/exoncorpacademy" />
+<meta property="og:description" content="exincorp offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute vellore details of our coaching center call @8189985559." />
+<meta property="og:url" content="https://www.exincorp.in/spoken-english-classes-in-vellore/" />
+<meta property="og:site_name" content="exincorp" />
+<meta property="article:publisher" content="http://facebook.com/exincorpacademy" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="exoncorp offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute vellore details of our coaching center call @8189985559." />
+<meta name="twitter:description" content="exincorp offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute vellore details of our coaching center call @8189985559." />
 <meta name="twitter:title" content="Spoken English Classes in vellore | Spoken English in vellore" />
-<meta name="twitter:site" content="@exoncorpacademy" />
-<meta name="twitter:creator" content="@exoncorpacademy" />
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.exoncorpacademy.com\/","name":"exoncorp","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.exoncorp.in\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="twitter:site" content="@exincorpacademy" />
+<meta name="twitter:creator" content="@exincorpacademy" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.exincorpacademy.com\/","name":"exincorp","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.exincorp.in\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
 <!-- / Yoast SEO plugin. -->
     <meta charset="utf-8"/>
-    <meta name="description" content=" exoncorp academy offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute Chennai details of our coaching center call @8189985559."/>
+    <meta name="description" content=" exincorp academy offers Spoken English Classes in vellore with the help of talented faculty members, interested to learn, speak and write in English, just enroll into our Best Spoken English Institute Chennai details of our coaching center call @8189985559."/>
     <meta name="keywords" content=" advance english speaking course in vellore,spoken english classes in vellore, english speaking class in vellore, 
 best english speaking institute in vellore, spoken english training in vellore, english speaking vellore, 
 professional english speaking course in vellore, english speaking course vellore, english speaking course in katpadi, 
@@ -46,22 +46,22 @@ Soft Skills Training in chennai,Etiquettes Training in vellore,
  Personality Development Training Institutes in tiruvanamalai,Personality Development Training Institutes in arani,Personality Development Training Institutes near me,Personality Development Training Institutes in chennai,
 Personality Development Classes in vellore,Self Grooming Training in vellore,  Presentation Training in vellore, 
  Personality Development Training Center in vellore"/>
-  <meta property="og:image" content="http://www.exoncorp.com/academy/logo.png" >    
+  <meta property="og:image" content="http://www.exincorp.com/academy/logo.png" >    
                        <meta name="twitter:card" content="summary" />          
-  <link rel="canonical" href="http://www.exoncorpacademy.com/"/>
+  <link rel="canonical" href="http://www.exincorpacademy.com/"/>
   <!--  <link rel="Css/Stylesheet" href="css/bootstrap.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap.min.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.css"/>
   <link rel="Css/Stylesheet" href="css/bootstrap-theme.min.css"/>-->
-                                <meta property="og:site_name" content="exoncorpacademy.com"/>
-                <meta property="og:url" content="http://www.exoncorpacademy.com/" >   
-                <meta name="twitter:url" content="http://www.exoncorpacademy.com/" >
-                <meta name="twitter:site" content="@exoncorpacademy"/>
-                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exoncorp Academy" >
-                <meta name="twitter:description" content="exoncorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
+                                <meta property="og:site_name" content="exincorpacademy.com"/>
+                <meta property="og:url" content="http://www.exincorpacademy.com/" >   
+                <meta name="twitter:url" content="http://www.exincorpacademy.com/" >
+                <meta name="twitter:site" content="@exincorpacademy"/>
+                <meta name="twitter:title" content="Online and Classroom Training for Professional Certification Courses | exincorp Academy" >
+                <meta name="twitter:description" content="exincorp provides online classes, classroom training and practice tests for PMP, PRINCE2, ITIL, CFA, FRM, Six 
 
 Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
-                <meta name="twitter:image" content="http://www.exoncorp.com/academy/logo.png" >
+                <meta name="twitter:image" content="http://www.exincorp.com/academy/logo.png" >
            
             <meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.profile.emails.read" />
             <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -70,9 +70,9 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                 {
                     "@context": "http://schema.org",
                     "@type": "Organization",
-                    "url": "http://www.exoncorpacademy.com",
-                    "logo": "http://www.exoncorp.com/academy/logo.png",
-                    "legalName" : "exoncorp IT Solutions Pvt  Ltd.,",
+                    "url": "http://www.exincorpacademy.com",
+                    "logo": "http://www.exincorp.com/academy/logo.png",
+                    "legalName" : "exincorp IT Solutions Pvt  Ltd.,",
                     "contactPoint" : [{
                         "@type" : "ContactPoint",
                         "telephone" : "+91-818-998-5559",
@@ -80,18 +80,18 @@ Sigma, Cloud Computing, CISA, JAVA, Microsoft and more." >
                         "contactOption" : "Contact" 
                     }],
                      "sameAs" : [ 
- "https://www.facebook.com/exoncorpAcademy/",
- "https://twitter.com/exoncorpacademy",
- "https://plus.google.com/+exoncorpacademyIndia/",
-    "https://www.pinterest.com/exoncorpacademy",
-    "http://youtube.com/exoncorpacademy"
+ "https://www.facebook.com/exincorpAcademy/",
+ "https://twitter.com/exincorpacademy",
+ "https://plus.google.com/+exincorpacademyIndia/",
+    "https://www.pinterest.com/exincorpacademy",
+    "http://youtube.com/exincorpacademy"
  ]
                 }
             </script>    
              <!-- Meta tags : End -->
-<meta name="Publisher" content="exoncorp IT Academy (www.exoncorp.in)" />
+<meta name="Publisher" content="exincorp IT Academy (www.exincorp.in)" />
     <meta name="revisit-after" content="1 days"/><meta name="googlebot" content="ALL" />
-    <meta name="author" content="exoncorp studios"/>
+    <meta name="author" content="exincorp studios"/>
   <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_UlpkXJSYOdebU9JVGf9y5B34PXaR4-_69TbYzDc4F4A.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_S_YhzSXNaDbjWZ88CeENHfwVW_dASOD-KHOPQ-3tOCo.css" media="all" />
 <link type="text/css" rel="stylesheet" href="sites/default/files/css/css_opFmOflf70ENsEkIuFuzxcalK9OIW51LvhbNSVYLdyQ.css" media="all" />
