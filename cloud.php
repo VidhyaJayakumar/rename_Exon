@@ -97,7 +97,7 @@
                                 </div>
                                 <div class="text-holder">
                                    <p><strong>Cloud Services: </strong>EXONCORP cloud believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites o dedicated servers, come with powerful tools and rock-solid security.</p>
-                                    <p class="mar-btm15"><strong>EXONCORP CLOUD</strong>&nbsp;Exon Corpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to dedicated servers, come with powerful tools and rock-solid security.</p>
+                                    <p class="mar-btm15"><strong>EXONCORP CLOUD</strong>&nbsp;Exin Corpcloud.com believes in your right to put your ideas online. That’s why all our hosting products, from single-page websites to dedicated servers, come with powerful tools and rock-solid security.</p>
                                 </div>
                             </div>
                         </div>

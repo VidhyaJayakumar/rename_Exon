@@ -382,7 +382,7 @@ and Web development, SEO Services, Domain registration and to your website for g
                                     <div class="text-holder">
                                         <h5>Senior Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>basha@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>basha@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -395,7 +395,7 @@ and Web development, SEO Services, Domain registration and to your website for g
                                     <div class="text-holder">
                                         <h5>Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>rex@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>rex@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 

@@ -265,7 +265,7 @@
                                     <div class="text-holder">
                                         <h5>Network Security</h5>
                                         <p><span class="flaticon-telephone"></span>8189985559</p>
-                                        <p><span class="flaticon-back"></span>selva@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>selva@Exin Corps.in</p>
                                     </div>
                                     
                                 </li>
@@ -279,7 +279,7 @@
                                     <div class="text-holder">
                                         <h5>Cisco</h5>
                                         <p><span class="flaticon-telephone"></span>8189985551</p>
-                                        <p><span class="flaticon-back"></span>sivapriya@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>sivapriya@Exin Corps.in</p>
                                     </div>
                                     
                                 </li>

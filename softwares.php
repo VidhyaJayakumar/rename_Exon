@@ -67,7 +67,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href="Exon Corp-softwares.php">Exincorp SOFTWARES</a></li>
+                        <li class="active"><a href="Exin Corp-softwares.php">Exincorp SOFTWARES</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
@@ -329,7 +329,7 @@
                                     <div class="text-holder">
                                         <h5>Manager</h5>
                                         <p><span class="flaticon-telephone"></span>8189985559</p>
-                                        <p><span class="flaticon-back"></span>selva@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>selva@Exin Corps.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -342,7 +342,7 @@
                                     <div class="text-holder">
                                         <h5>Mobile Apps Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985551</p>
-                                        <p><span class="flaticon-back"></span>sivapriya@Exon Corps.in</p>
+                                        <p><span class="flaticon-back"></span>sivapriya@Exin Corps.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -355,7 +355,7 @@
                                     <div class="text-holder">
                                         <h5>Web Application Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>basha@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>basha@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 <li>
@@ -368,7 +368,7 @@
                                     <div class="text-holder">
                                         <h5>PHP Developer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985554</p>
-                                        <p><span class="flaticon-back"></span>rex@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>rex@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 

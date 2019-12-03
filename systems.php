@@ -8,7 +8,7 @@
 
 	  <meta name="description" content="exincorp Systems Services is the one-stop IT services company in Vellore for all of your Desktop and Laptop Computer repairs. Our technicians fix all types of hardware and software problems. - exincorp  Systems laptop, desktop,printers,servers,softwares,oldsystems,networking,rack,tonerrefilling @ Vellore, Chennai, Gudiyatham, Kanchipuram"/>
 	  	<meta name="author" content=" exincorp  Systems - computer sales and service @ Vellore, Chennai, Kanchipuram, Gudiyatham">
-		<meta name="keywords" content="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,Exon Corp systems vellore,tamilnadu. Computer Service Center - exincorp  Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
+		<meta name="keywords" content="computer dealers in vellore,computer sales in vellore,cctv dealers in vellore,vellore computer accessories,computer shops in vellore,computer service center in vellore,computer service in vellore,computer sales and service in vellore,Computers & Accessories,Laptop Repair and Services in vellore,Sevice Engineer Vellore,computer accessories in vellore,Laptop Accessories in Vellore,Exin Corp systems vellore,tamilnadu. Computer Service Center - exincorp  Systems @ Vellore, Gudiyatham, Chennai, Kanchipuram">
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -374,7 +374,7 @@
                                     <div class="text-holder">
                                         <h5>System Engineer</h5>
                                         <p><span class="flaticon-telephone"></span>8189985557</p>
-                                        <p><span class="flaticon-back"></span>balaji@Exon Corpsolutions.in</p>
+                                        <p><span class="flaticon-back"></span>balaji@Exin Corpsolutions.in</p>
                                     </div>
                                 </li>
                                 

@@ -56,8 +56,8 @@
                     "url" : "http://exincorp.com",
                     "sameAs" : 
 
-["https://www.facebook.com/Exon Corp.in","https://twitter.com/Exon Corpindia","https://www.youtube.com/channel/UCOa-UtzHSPRLDGN6JqObaYA","https://www.linkedin.com/company/ExonCorp-it-solutions-pvt-ltd","https://plus.google.com/106304209575651338346/","http://instagram.com/Exon Corpitsolutions"],
-                    "logo": "http://Exon Corp.in/logo.png",
+["https://www.facebook.com/Exin Corp.in","https://twitter.com/Exin Corpindia","https://www.youtube.com/channel/UCOa-UtzHSPRLDGN6JqObaYA","https://www.linkedin.com/company/ExonCorp-it-solutions-pvt-ltd","https://plus.google.com/106304209575651338346/","http://instagram.com/Exin Corpitsolutions"],
+                    "logo": "http://Exin Corp.in/logo.png",
                     "legalName" : "ExonCorp IT Solutions, Inc.",
                     "address":[
                     { "@type": "PostalAddress", "addressCountry": "India", "addressLocality": "Tamil nadu", "addressRegion": "Vellore", "postalCode": "632009", 
@@ -107,7 +107,7 @@
             <div class="col-md-12">
                 <div class="left pull-left">
                     <ul>
-                        <li><a href="https://Exon Corp.in/index.php">Home</a></li>
+                        <li><a href="https://Exin Corp.in/index.php">Home</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
@@ -333,7 +333,7 @@
                 <div class="inner-content text-center wow zoomIn" data-wow-delay="0.5s" data-wow-duration="1s" data-wow-offset="0">
                     <h1>Let's get started</h1>
                     <p>Whatever your business, whatever your budget we’ll help find the right workspace.</p>
-                    <a href="https://Exon Corp.in/services">View Services</a>
+                    <a href="https://Exin Corp.in/services">View Services</a>
                 </div>
             </div>
         </div>
@@ -502,7 +502,7 @@
                     <h3>Over 20 years of experience we’ll ensure you get the best guidance.</h3>    
                 </div>
                 <div class="button pull-right">
-                    <a class="thm-btn bgclr-1" href="Exon Corp-academy.php">Contact Us</a>
+                    <a class="thm-btn bgclr-1" href="Exin Corp-academy.php">Contact Us</a>
                 </div>  
             </div>
         </div>

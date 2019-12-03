@@ -439,7 +439,7 @@ WE BUILD REPUTATIONS"</p>
                 <!-- Item -->
                   <div class="four columns portfolio-item design logo">
                     <figure>
-                         <div class="mediaholder"> <a href="19.jpg" class="mfp-image" title="Exon Crop"> 
+                         <div class="mediaholder"> <a href="19.jpg" class="mfp-image" title="Exin Crop"> 
                          <img alt="" src="exon.jpg"/>
                                    <div class="hovercover">
                                         <div class="hovericon"><i class="hoverzoom"></i></div>

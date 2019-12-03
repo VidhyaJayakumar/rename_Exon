@@ -15,7 +15,7 @@
  * the License.
  */
 
-class Google_Service_Genomics_Exon extends Google_Model
+class Google_Service_Genomics_Exin extends Google_Model
 {
   public $end;
   public $frame;
