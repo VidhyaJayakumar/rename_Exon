@@ -925,7 +925,7 @@ WE BUILD REPUTATIONS"</p>
 
                <div class="four columns portfolio-item webdesign">
                     <figure>
-                         <div class="mediaholder"> <a href="ex.jpg" class="mfp-image" title="ExonCorp"> 
+                         <div class="mediaholder"> <a href="ex.jpg" class="mfp-image" title="ExinCorp"> 
                          <img alt="" src="ex.jpg"/>
                                    <div class="hovercover">
                                         <div class="hovericon"><i class="hoverzoom"></i></div>
@@ -933,7 +933,7 @@ WE BUILD REPUTATIONS"</p>
                               </a> </div>
                          
                               <figcaption class="item-description">
-                                   <a href="#" target="_blank"><h5>ExonCorp</h5></a>
+                                   <a href="#" target="_blank"><h5>ExinCorp</h5></a>
                                    <span></span> 
                                    <i class="ss-star">60</i> 
                               </figcaption>

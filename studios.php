@@ -3,7 +3,7 @@
 
  <head>
 	<meta charset="UTF-8">
-	<title> ExonCorp Studios - A software company Web Design,development company in Vellore | Web Development vellore | Web Hosting Tamilnadu| hosting and Domain Registration vellore | Advertising Vellore| Branding Tamilnadu | Ecommerce Website Development in Vellore | Low Price Website Design in Vellore | Logo Design Vellore | Online Shopping Cart in India | Webdesign courses, webdesign training </title>    
+	<title> ExinCorp Studios - A software company Web Design,development company in Vellore | Web Development vellore | Web Hosting Tamilnadu| hosting and Domain Registration vellore | Advertising Vellore| Branding Tamilnadu | Ecommerce Website Development in Vellore | Low Price Website Design in Vellore | Logo Design Vellore | Online Shopping Cart in India | Webdesign courses, webdesign training </title>    
 	   
 
 	  <meta name="description" content="Leading Web Designing and development company in vellore, web hosting company in vellore helps small business with provided logo designing,Domain,hosting,branding,advertising.A passionate Digitalmarketing comapan in India having expertise in web design,Wordpress/PHP website development company in Vellore, CMS customization,social media marketing in Vellore,Classifieds Agency in Vellore,Professsional Photoshoot in Vellore,Online Shopcart Designers in Vellore,digital marketing services Vellore,domain name registration in vellore,web development company in vellore.Web Design training courses in Vellore, Website Design and development training in vellore.Exincorpstudios Chennai|Vellore|Hosur|Tamilnadu|India">
@@ -48,7 +48,7 @@
 	    <div class="row">
 	        <div class="col-md-12">
 	            <div class="breadcrumbs">
-	                <h1>ExonCorp Studios</h1>
+	                <h1>ExinCorp Studios</h1>
 	            </div>
 	        </div>
 	    </div>
@@ -67,7 +67,7 @@
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
                         <li><a href="services.php">Services</a></li>
                         <li><i class="fa fa-angle-right" aria-hidden="true"></i></li>
-                        <li class="active"><a href=" ">ExonCorp Studios</a></li>
+                        <li class="active"><a href=" ">ExinCorp Studios</a></li>
                     </ul>
                 </div>
                 <div class="right pull-right">
